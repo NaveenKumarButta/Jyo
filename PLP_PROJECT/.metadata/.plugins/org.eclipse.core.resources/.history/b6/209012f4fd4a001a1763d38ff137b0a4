@@ -1,0 +1,15 @@
+package com.capgemini.storesmanagementsystem.dao;
+
+import com.capgemini.storesmanagementsystem.dto.ProductDetailsInfo;
+
+
+public interface AdminDAOInterface {
+
+	public void updateRecords(ProductDetailsInfo info);
+	
+	public void deleteRecords(ProductDetailsInfo info1);
+	
+	public void showRecords(ProductDetailsInfo info2);
+
+    
+}

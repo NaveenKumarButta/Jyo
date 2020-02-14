@@ -1,0 +1,5 @@
+package com.capgemini.storesmanagement.exception;
+
+public class StoreManagementSystemException {
+
+}

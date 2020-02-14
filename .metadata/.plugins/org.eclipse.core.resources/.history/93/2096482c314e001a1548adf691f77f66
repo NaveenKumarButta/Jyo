@@ -1,0 +1,19 @@
+package com.capgemini.storesmanagementsystem.exception;
+
+public class UserNotFoundException extends RuntimeException{
+		   String str1;
+		  
+		   public UserNotFoundException(String str2) throws UserNotFoundException {
+			super();
+			   str1=str2;
+			
+		   }
+		   public String toString(){ 
+			return ("Exception: "+str1) ;
+		   }
+		
+
+		   
+		}
+
+

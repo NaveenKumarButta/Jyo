@@ -1,0 +1,31 @@
+package com.capgemini.storesmanagementsystem.service;
+
+import java.util.List;
+
+import com.capgemini.storesmanagementsystem.dto.UserDetailsInfo;
+
+public class AdminServiceImpl implements AdminService{
+	 AdminServiceImpl dao=new AdminServiceImpl();
+	
+
+	@Override
+	public boolean addManufacturer(UserDetailsInfo user) {
+		return dao.addManufacturer(user);
+	}
+
+	@Override
+	public boolean updateManufacturer(String userId, UserDetailsInfo user) {
+		return false;
+	}
+
+	@Override
+	public boolean deleteManufacturer(String userId) {
+		return false;
+	}
+
+	@Override
+	public List<String> viewAllManufacturs() {
+		return null;
+	}
+
+}

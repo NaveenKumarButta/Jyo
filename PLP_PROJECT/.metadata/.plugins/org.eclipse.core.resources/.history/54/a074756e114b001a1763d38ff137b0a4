@@ -1,0 +1,11 @@
+package com.capgemini.storesmanagementsystem.service;
+
+
+
+public class AdminDaoImpl implements AdminService{
+	
+
+	
+
+
+}

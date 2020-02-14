@@ -1,0 +1,5 @@
+package com.capgemini.storesmanagementsystem.util;
+
+public class PasswordValidator {
+
+}

@@ -1,0 +1,63 @@
+package com.capgemini.storesmanagementsystem.service;
+
+import java.util.List;
+
+public class ManufacturerServiceImpl implements  ManufacturerService {
+	private ManufactureDao dao;
+
+	@Override
+	public List<String> loginManufact(String userId, String password) {
+	return dao.loginManufact(userId, password);
+	}
+
+	@Override
+	public boolean addDealer(UserDetailsInfo dealer) {
+		return dao.addDealer(dealer);
+	}
+
+	@Override
+	public boolean modifyDealer(String user) {
+		return dao.modifyDealer(user);
+	}
+
+	@Override
+	public boolean removeDealer(String dealerId) {
+		return dao.removeDealer(dealerId);
+	}
+
+	@Override
+	public List<String> viewAllDealers(String role) {
+		return dao.viewAllDealers(role);
+	}
+
+	@Override
+	public boolean addProduct(Products product) {
+		return dao.addProduct(product);
+	}
+
+	@Override
+	public boolean modifyProduct(String product) {
+		return dao.modifyProduct(product);
+	}
+
+	@Override
+	public boolean removeProduct(Integer productId) {
+		return dao.removeProduct(productId);
+	}
+
+	@Override
+	public List<String> viewAllProducts() {
+		return dao.viewAllProducts();
+	}
+
+	@Override
+	public List<String> viewAllOrders() {
+		return dao.viewAllOrders();
+	}
+
+	@Override
+	public List<String> viewStore() {
+		return dao.viewStore();
+	}
+
+}

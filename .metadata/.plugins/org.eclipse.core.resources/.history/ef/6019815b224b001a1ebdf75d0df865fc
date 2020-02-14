@@ -1,0 +1,20 @@
+package com.capgemini.storesmanagement.dao;
+
+import com.capgemini.storesmanagement.dto.ProductDetailsInfo;
+import com.capgemini.storesmanagement.dto.UserDetailsInfo;
+
+public interface ManufacturerDao {
+public UserDetailsInfo loginManufacturer(String userId, String password);
+	
+	public boolean addDealer(UserDetailsInfo dealer);
+	public boolean modifyDealer(UserDetailsInfo dealer);
+	public boolean removeDealer(String dealerId);
+	
+	public boolean addProduct(ProductDetailsInfo product);
+	public boolean modifyProduct(ProductDetailsInfo product);
+	public boolean removeProduct(Integer productId);
+	
+	
+	
+
+}

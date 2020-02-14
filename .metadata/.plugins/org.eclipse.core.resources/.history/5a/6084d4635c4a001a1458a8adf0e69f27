@@ -1,0 +1,12 @@
+package com.capgemini.storesmanagement.dto;
+
+public class OrderDetailsInfo {
+	private int referenceId;
+	private int orderId;
+	private int productId;
+	private int quantity;
+	private String address;
+	private int userId;
+	
+
+}

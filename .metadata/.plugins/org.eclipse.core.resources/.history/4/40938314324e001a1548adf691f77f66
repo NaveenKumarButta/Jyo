@@ -1,0 +1,24 @@
+package com.capgemini.storesmanagementsystem.exception;
+
+public class UserNotFoundException extends RuntimeException{
+		   String str1="sorry login Unsucessfull";
+		  
+		   public UserNotFoundException(String str2){
+			super();
+			   str1=str2;
+			
+		   }
+		   public UserNotFoundException(){
+			   super();
+		   }
+		   
+		   
+		   public String getMessage(){ 
+			return super.getMessage();
+		   }
+		
+
+		   
+		}
+
+

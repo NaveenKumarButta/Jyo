@@ -1,0 +1,191 @@
+package com.capgemini.storesmanagementsystem.controller;
+
+import java.util.List;
+import java.util.Scanner;
+
+import org.apache.log4j.Logger;
+
+import com.capgemini.storesmanagementsystem.service.DealerService;
+import com.capgemini.storesmanagementsystem.service.DealerServiceImpl;
+import com.capgemini.storesmanagementsystem.validation.Validation;
+
+public class DealerController {
+	DealerService dealerService = new DealerServiceImpl();
+	StoreUnit storeUnit;
+	DealerDAOImpl dao = new DealerDAOImpl();
+
+	Logger log = Logger.getLogger("store");
+	Scanner scan = new Scanner(System.in);
+	Validation validate = new Validation();
+
+	void dealerTask() throws SchemaManagementException {
+
+		int choice = 0;
+		log.info("Welcome to Dealer's Page");
+		log.info("1.Make Orders");
+		log.info("2.Delete Orders");
+		log.info("3.Show All Products");
+		log.info("4.Show All Orders");
+		log.info("5.Show My Store");
+		log.info("6.addToStoreUnit");
+		log.info("7.Exit");
+
+		do {
+			log.info("************************");
+			log.info("Enter Your Choice");
+			log.info("************************");
+			scan = validate.integerValidation();
+			choice = scan.nextInt();
+			switch (choice) {
+
+			case 1:
+
+				Orders od = new Orders();
+
+				log.info("Enter reference id");
+				scan = validate.integerValidation();
+				int id11 = scan.nextInt();
+				od.setReferenceId(id11);
+
+				while (true) {
+					log.info("Enter location");
+					String location = scan.next();
+					boolean result = validate.userNameValidation(location);
+					if (result) {
+						od.setLocation(location);
+						break;
+					} else
+						log.info("Invalid !! Try Again");
+				}
+
+				log.info("Enter orderId ");
+				scan = validate.integerValidation();
+				int orderId = scan.nextInt();
+				od.setOrderId(orderId);
+
+				log.info("Enter productId ");
+				scan = validate.integerValidation();
+				int pId = scan.nextInt();
+				od.setProductId(pId);
+
+				log.info("Enter Quantity ");
+				scan = validate.integerValidation();
+				int qty = scan.nextInt();
+				od.setQuantity(qty);
+				while (true) {
+					log.info("Enter UserId");
+					String us = scan.next();
+					boolean result2 = validate.idValidation(us);
+					if (result2) {
+						od.setUserId(us);
+						break;
+					} else
+						log.info("Invalid !! Try Again");
+				}
+
+				boolean res = dealerService.makeOrder(od);
+				if (res)
+					log.info("Insert Succesfully");
+				else
+					try {
+						throw new InsertionFailedException("Insertion Failed");
+					} catch (Exception e) {
+						log.info(e.getMessage());
+					}
+				break;
+
+			case 2:
+
+				log.info("Enter the orderId You want to Delete");
+				scan = validate.integerValidation();
+				int n = scan.nextInt();
+				boolean resu = dealerService.deleteOrder(n);
+				if (resu)
+					log.info("OrderId is deleted Succesfully");
+				else
+					try {
+						throw new SchemaManagementException("Insertion Failed");
+					} catch (Exception e) {
+						log.info(e.getMessage());
+					}
+				break;
+
+			case 3:
+				List<String> s = dealerService.showAllproducts();
+
+				log.info(s);
+
+				break;
+
+			case 5:
+				log.info("Enter the StoreId You want to See");
+				scan = validate.integerValidation();
+				int k = scan.nextInt();
+
+				List<Integer> j = dealerService.viewMyStore(k);
+
+				log.info(j);
+				break;
+
+			case 4:
+				while (true) {
+					log.info("Enter the UserName for seeing Orders");
+
+					String uname = scan.next();
+					boolean result3 = validate.userNameValidation(uname);
+					if (result3) {
+						List<String> li = dealerService.viewMyOrders(uname);
+						log.info(li);
+						break;
+					} else
+						try {
+							throw new SchemaManagementException("UserName Not Found");
+						} catch (Exception e) {
+							log.info(e.getMessage());
+						}
+				}
+				break;
+			case 6:
+				StoreUnit storeunit = new StoreUnit();
+				log.info("Enter StoreId");
+				scan = validate.integerValidation();
+				int storeId = scan.nextInt();
+				storeunit.setNo_of_items(storeId);
+
+				log.info("Enter MinimumStockMaintained");
+				scan = validate.integerValidation();
+				int stock = scan.nextInt();
+				storeunit.setMinimumStockMantain(stock);
+
+				log.info("Enter No of Items");
+				scan = validate.integerValidation();
+				int items = scan.nextInt();
+				storeunit.setNo_of_items(items);
+
+				log.info("Enter ProductId");
+				scan = validate.integerValidation();
+				int pId2 = scan.nextInt();
+				storeunit.setProductId(pId2);
+
+				boolean resu1 = dealerService.addToStoreUnit(storeunit);
+				if (resu1) {
+					log.info("Inserted Successfully");
+				} else {
+					try {
+						throw new SchemaManagementException(" Inserting in StoreUnit Failed ");
+					} catch (Exception e) {
+						log.info(e.getMessage());
+					}
+				}
+				break;
+
+			default:
+				System.out.println("Invalid Choice...");
+				break;
+
+			}
+
+		} while (choice != 7);
+	}
+
+}

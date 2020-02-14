@@ -1,0 +1,25 @@
+package com.capgemini.storesmanagementsystem.factory;
+
+import com.capgemini.storesmanagementsystem.dao.ManufacturerDao;
+import com.capgemini.storesmanagementsystem.dao.ManufacturerImpl;
+import com.capgemini.storesmanagementsystem.service.ManufacturerService;
+import com.capgemini.storesmanagementsystem.service.ManufacturerServiceImpl;
+
+public class ManufacturerDaoManagerFactory {
+	
+		public static ManufacturerDao getContractDAO() {
+			return new ManufacturerImpl(); 
+		}
+
+		public static ManufacturerDao instanceOfContactDAOImpl() {
+			ManufacturerDao dao= new ManufacturerImpl();
+			return dao;
+		   }
+
+		public static ManufacturerService instanceOfContactServiceImpl() {
+			ManufacturerService service= new ManufacturerServiceImpl();
+			return service;
+		   }
+		
+	}
+

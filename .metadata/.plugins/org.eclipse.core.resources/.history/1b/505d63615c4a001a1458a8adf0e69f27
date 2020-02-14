@@ -1,0 +1,5 @@
+package com.capgemini.storesmanagement.dto;
+
+public class StoresInfo {
+
+}

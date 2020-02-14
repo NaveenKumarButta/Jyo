@@ -1,0 +1,15 @@
+1581230548956	Rename type 'AdminDAOInterface'
+1581230573779	Rename type 'AdminDAOImpl'
+1581230590839	Rename type 'manufacturerDao'
+1581232775709	Rename type 'AdminService'
+1581234857797	Rename type 'AdminDao'
+1581234882811	Rename type 'AdminDaoImpl'
+1581235248286	Rename type 'ManufacturerDao'
+1581235266983	Rename type 'ManufacturerDaoImpl'
+1581241538836	Delete element
+1581241606109	Rename type 'DealerDao'
+1581241631677	Delete element
+1581317735748	Delete element
+1581317908525	Rename type 'PassworEncrypter'
+1581336330678	Rename local variable 'info3'
+1581336342467	Rename local variable 'info4'

@@ -1,0 +1,5 @@
+package com.capgemini.storesmanagementsystem.factory;
+
+public class FactoryDetails {
+
+}

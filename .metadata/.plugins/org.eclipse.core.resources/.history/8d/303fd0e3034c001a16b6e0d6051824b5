@@ -1,0 +1,36 @@
+package com.capgemini.storesmanagementsystem.controller;
+
+import java.util.Scanner;
+
+import org.apache.log4j.LogManager;
+import org.apache.log4j.Logger;
+
+public class HomeController {
+	static Logger log = LogManager.getLogger("Admin");
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		log.info("/-----welcome to stores management system ----------/");
+		log.info("Home");
+
+		int choice = sc.nextInt();
+
+		log.info("Choose ");
+		if (choice == 1) {
+
+			DealerController uc = new DealerController();
+
+			uc.userLogin();
+		} else if (choice == 2) {
+			AboutController c = new AboutController();
+			c.aboutPage();
+		} else if (choice == 3) {
+			AdminController a = new AdminController();
+			a.adminLogin();
+		} else {
+			log.info("logout successfully..!");
+		}
+
+	}
+
+}

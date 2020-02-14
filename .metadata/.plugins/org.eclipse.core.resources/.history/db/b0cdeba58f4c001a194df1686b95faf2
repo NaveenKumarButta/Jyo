@@ -1,0 +1,15 @@
+package com.capgemini.storesmanagementsystem.controller;
+
+import org.apache.log4j.LogManager;
+import org.apache.log4j.Logger;
+
+public class DealerController {
+
+	Logger log = LogManager.getLogger("Dealer");
+
+	public void userLogin() {
+
+		log.info("Hi..!");
+	}
+
+}

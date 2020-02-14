@@ -1,0 +1,30 @@
+
+‹squid:S1192"VDefine a constant instead of duplicating this literal "com.mysql.jdbc.Driver" 5 times.(¹µÖÁüÿÿÿÿHûRCRITICALZ
+CODE_SMELL
+Xsquid:S1148V"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHĞRMINORZVULNERABILITY
+Ôsquid:S1192"—Define a constant instead of duplicating this literal "jdbc:mysql://localhost:3306/stores_management_db?user=root&password=tiger&useSSL=false" 5 times.(»ÉáŸÿÿÿÿÿ8úÙêƒ.HRCRITICALZ
+CODE_SMELL
+}squid:CommentedOutCodeLine "<This block of commented-out lines of code should be removed.(¯ÚºØúÿÿÿÿH×RMAJORZ
+CODE_SMELL
+_squid:S49250"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿHåRMAJORZ
+CODE_SMELL
+Xsquid:S1148?"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿHÙRMINORZVULNERABILITY
+_squid:S4925c"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿHˆRMAJORZ
+CODE_SMELL
+_squid:S4925K"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿHRMAJORZ
+CODE_SMELL
+_squid:S4925y"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿH‡RMAJORZ
+CODE_SMELL
+_squid:S4925"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿH†RMAJORZ
+CODE_SMELL
+csquid:S1135U"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿHİRINFOZ
+CODE_SMELL
+squid:S2068"V'password' detected in this expression, review this potentially hard-coded credential.(»ÉáŸÿÿÿÿÿHşRBLOCKERZVULNERABILITY
+squid:S2068G"V'password' detected in this expression, review this potentially hard-coded credential.(»ÉáŸÿÿÿÿÿHRBLOCKERZVULNERABILITY
+squid:S2068^"V'password' detected in this expression, review this potentially hard-coded credential.(»ÉáŸÿÿÿÿÿHŠRBLOCKERZVULNERABILITY
+ˆsquid:S2068H"V'password' detected in this expression, review this potentially hard-coded credential.(øùÁÃH‰RBLOCKERZVULNERABILITY
+squid:S2068s"V'password' detected in this expression, review this potentially hard-coded credential.(»ÉáŸÿÿÿÿÿHƒRBLOCKERZVULNERABILITY
+Ssquid:S2695"+This "PreparedStatement" has no parameters.(ÀõãôHÖRBLOCKERZBUG
+squid:S2068,"V'password' detected in this expression, review this potentially hard-coded credential.(»ÉáŸÿÿÿÿÿH‹RBLOCKERZVULNERABILITY
+©squid:UselessImportCheck"cRemove this unused import 'com.capgemini.storesmanagementsystem.exception.InputMissMatchException'.(¢üğ£üÿÿÿÿ8›á’ñƒ.HËRMINORZ
+CODE_SMELL

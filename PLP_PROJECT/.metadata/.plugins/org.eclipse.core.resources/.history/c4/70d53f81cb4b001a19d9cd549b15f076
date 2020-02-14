@@ -1,0 +1,26 @@
+package com.capgemini.storesmanagementsystem.factory;
+
+import com.capgemini.storesmanagementsystem.dao.DealerDao;
+import com.capgemini.storesmanagementsystem.dao.DealerImpl;
+import com.capgemini.storesmanagementsystem.service.DealerService;
+import com.capgemini.storesmanagementsystem.service.DealerServiceImpl;
+
+public class DealerDaoManagerFactory {
+
+	public static DealerDao getContractDao() {
+		return new DealerImpl(); 
+	}
+
+	public static DealerDao instanceOfContactDAOImpl() {
+		DealerDao dao= new DealerImpl();
+		return dao;
+	   }
+
+	public static DealerService instanceOfContactServiceImpl() {
+		DealerService service= new DealerServiceImpl();
+		return service;
+	   }
+	
+}
+
+

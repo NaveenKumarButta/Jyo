@@ -1,0 +1,10 @@
+package com.capgemini.storesmanagementsystem.dto;
+
+public class ProductDetailsInfo {
+	private Integer product;
+	private String productName;
+	private double price;
+	private String warranty;
+	private Integer stocks;
+	
+}

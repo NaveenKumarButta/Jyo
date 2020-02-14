@@ -1,0 +1,38 @@
+package com.capgemini.storesmanagementsystem.service;
+
+import com.capgemini.storesmanagementsystem.dao.AdminDao;
+import com.capgemini.storesmanagementsystem.dto.UserDetailsInfo;
+
+public class AdminServiceImpl implements AdminService {
+	private AdminDao dao;
+
+
+	@Override
+	public void loginAdmin(UserDetailsInfo info) {
+		
+	}
+
+	@Override
+	public   void addManufacturer(UserDetailsInfo info1) {
+ 		 dao.addManufacturer(info1);
+
+		
+	}
+
+	@Override
+	public void updateManufacturer(UserDetailsInfo info2) {
+		 dao.addManufacturer(info2);
+
+		
+	}
+
+	@Override
+	public void deleteManufacturer(UserDetailsInfo info3) {
+		 dao.addManufacturer(info3);
+
+		
+	}
+	
+	
+
+}

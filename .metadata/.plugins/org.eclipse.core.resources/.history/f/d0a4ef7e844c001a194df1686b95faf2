@@ -1,0 +1,70 @@
+package com.capgemini.storesmanagementsystem.controller;
+
+import java.util.Scanner;
+
+import org.apache.log4j.LogManager;
+import org.apache.log4j.Logger;
+
+import com.capgemini.storesmanagementsystem.dao.AdminDaoImpl;
+import com.capgemini.storesmanagementsystem.dto.UserDetailsInfo;
+
+public class AdminController {
+	static UserDetailsInfo info=new UserDetailsInfo();	
+	static Logger log = LogManager.getLogger(" ");
+	AdminDaoImpl adao=new AdminDaoImpl();
+	Scanner sc = new Scanner(System.in);
+	static int key;
+	public void showMenu() {
+		log.info("Welcome to Admin page");
+		log.info("press 1 for login");
+		log.info("press 2 for adding manufacturer");
+		log.info("press 3 for updating manufacturer");
+		log.info("press 4 for deleting manufacturer");
+		log.info("press 5 for showing manufacturer");
+
+		int key=sc.nextInt();
+		switch(key) {
+
+		case 1: log.info("Enter user id");
+		int id = sc.nextInt();
+
+		info.setUserId(id);
+		log.info("Enter password");
+		String password=sc.next();
+		info.setPassword(password);
+		adao.loginAdmin(info);
+		log.info("login succesfully");
+		break;
+
+
+
+
+		case 2: log.info("Enter user id");
+		int id1=sc.nextInt();
+		info.setUserId(id1);
+
+		log.info("Enter User Name");
+		String id2=sc.next();
+		info.setUserName(id2);
+
+		log.info("Enter email");
+		info.setEmail(sc.next());
+
+		log.info("Enter password");
+		info.setPassword(sc.next());
+		log.info("Enter address");
+		info.setAddress(sc.next());
+		log.info("Enter user role");
+		info.setUserRole(sc.next());
+		log.info("successfully added admin");
+		break;
+		default:
+			log.info("Invalid credentials");
+		}
+
+	}
+}
+
+
+
+

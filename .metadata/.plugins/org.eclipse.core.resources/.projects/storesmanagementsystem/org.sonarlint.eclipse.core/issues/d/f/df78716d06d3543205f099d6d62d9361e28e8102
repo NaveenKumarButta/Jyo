@@ -1,0 +1,24 @@
+
+squid:S00117<"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨Ê›HRMINORZ
+CODE_SMELL
+€squid:S3973m"IUse indentation to denote the code conditionally executed by this "else".(ÔÍØ8àığƒ.HRCRITICALZ
+CODE_SMELL
+squid:S3973ƒ"IUse indentation to denote the code conditionally executed by this "else".(ÔÍØ8àığƒ.HRCRITICALZ
+CODE_SMELL
+k
+squid:S106–"9Replace this use of System.out or System.err by a logger.(çôîÚüÿÿÿÿH‘RMAJORZ
+CODE_SMELL
+squid:S3973˜"IUse indentation to denote the code conditionally executed by this "else".(ÔÍØ8àığƒ.H’RCRITICALZ
+CODE_SMELL
+„squid:S00117G"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†Ä§ªıÿÿÿÿH“RMINORZ
+CODE_SMELL
+ˆsquid:S3776"SRefactor this method to reduce its Cognitive Complexity from 123 to the 15 allowed.(Ì²¢şÿÿÿÿH”RCRITICALZ
+CODE_SMELL
+squid:S3973¿"IUse indentation to denote the code conditionally executed by this "else".(ÔÍØ8àığƒ.H•RCRITICALZ
+CODE_SMELL
+’squid:S11927"VDefine a constant instead of duplicating this literal "Invalid !! Try Again" 12 times.(’‚ıÜÿÿÿÿÿ8àığƒ.H–RCRITICALZ
+CODE_SMELL
+€squid:S3973c"IUse indentation to denote the code conditionally executed by this "else".(ÔÍØ8àığƒ.H—RCRITICALZ
+CODE_SMELL
+squid:S3973Ğ"IUse indentation to denote the code conditionally executed by this "else".(ÔÍØ8àığƒ.H˜RCRITICALZ
+CODE_SMELL

@@ -1,0 +1,13 @@
+package com.capgemini.storesmanagementsystem.service;
+
+import com.capgemini.storesmanagementsystem.dto.UserDetailsInfo;
+
+public interface AdminService {
+
+	
+	public boolean addManufactur(UserDetailsInfo user);
+	public boolean updateManufactur(String userId,UserDetailsInfo user);
+	public boolean deleteManufactur(String userId);
+	public List<String> viewAllManufacturs();
+
+}

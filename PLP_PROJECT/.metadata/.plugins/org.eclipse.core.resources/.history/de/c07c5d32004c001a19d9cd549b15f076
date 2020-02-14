@@ -1,0 +1,44 @@
+package com.capgemini.storesmanagementsystem.controller;
+
+import java.util.Scanner;
+
+import org.apache.log4j.LogManager;
+import org.apache.log4j.Logger;
+
+import com.capgemini.storesmanagementsystem.dto.UserDetailsInfo;
+
+public class AdminController {
+	
+	static Logger log = LogManager.getLogger("User");
+    static Scanner sc = new Scanner(System.in);
+    static int key;
+    public void showMenu(UserDetailsInfo info) {
+    log.info("Welcome to Admin page");
+    log.info("press 1 for login");
+    log.info("press 2 for adding manufacturer");
+    log.info("press 3 for updating manufacturer");
+    log.info("press 4 for deleting manufacturer");
+    log.info("press 5 for showing manufacturer");
+    
+    switch(key) {
+    
+    case 1: log.info("Enter user id");
+            int id = sc.nextInt();
+            info.setUserId(id);
+            log.info("Enter password");
+            String password=sc.nextLine();
+            info.setPassword(password);
+            break;
+            default:
+            	log.info("Invalid");
+            }
+      
+            
+//    case 2: log.info("Enter user id");
+//            int id1=sc.nextInt();
+//            info.setUserId(id1);
+//            
+//            
+    }
+    
+}

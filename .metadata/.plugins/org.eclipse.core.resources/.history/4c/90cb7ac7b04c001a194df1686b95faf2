@@ -1,0 +1,50 @@
+package com.capgemini.storesmanagementsystem.service;
+
+import java.util.List;
+
+import com.capgemini.storesmanagementsystem.dao.DealerDao;
+
+public class DealerServiceImpl implements DealerService{
+
+	
+	private DealerDao dao; 
+
+		
+		public List<String> loginDealer(String userId, String password) {
+			return dao.loginDealer(userId, password);
+		}
+
+
+		public boolean makeOrder(Orders order) {
+			return dao.makeOrder(order);
+		}
+
+
+		public boolean deleteOrder(Integer orderId) {
+			return dao.deleteOrder(orderId);
+		}
+
+
+		public List<String> showAllproducts() {
+			return dao.showAllproducts();
+		}
+
+
+		public List<Integer> viewMyStore(Integer storeId) {
+			return dao.viewMyStore(storeId);
+		}
+
+
+		public List<String> viewMyOrders(String userId) {
+			return dao.viewMyOrders(userId);
+		}
+	
+	
+
+
+	
+	
+	
+	
+
+}

@@ -1,0 +1,88 @@
+package com.capgemini.storesmanagementsystem.dto;
+
+public class OrderDetailsInfo {
+	private Integer orderId;
+
+	private Integer productId;
+
+	private Integer quantity;
+
+	private String address;
+	
+	private String userId;
+	
+	private String password;
+
+	public OrderDetailsInfo() {
+		super();
+	}
+	
+	public OrderDetailsInfo(Integer orderId, Integer productId, Integer quantity, String address,
+			String userId, String password) {
+		super();
+		
+		this.orderId = orderId;
+		this.productId = productId;
+		this.quantity = quantity;
+		this.address = address;
+		this.userId = userId;
+		this.password=password;
+	}
+
+	
+
+	public Integer getOrderId() {
+		return orderId;
+	}
+
+	public void setOrderId(Integer orderId) {
+		this.orderId = orderId;
+	}
+
+	public Integer getProductId() {
+		return productId;
+	}
+
+	public void setProductId(Integer productId) {
+		this.productId = productId;
+	}
+
+	public Integer getQuantity() {
+		return quantity;
+	}
+
+	public void setQuantity(Integer quantity) {
+		this.quantity = quantity;
+	}
+
+	public String getAddress() {
+		return address;
+	}
+
+	public void setAddress(String address) {
+		this.address = address;
+	}
+
+	public String getUserId() {
+		return userId;
+	}
+
+	public String getPassword() {
+		return password;
+	}
+
+	public void setPassword(String password) {
+		this.password = password;
+	}
+
+	public void setUserId(String userId) {
+		this.userId = userId;
+	}
+
+	@Override
+	public String toString() {
+		return "Orders [orderId=" + orderId + ", productId=" + productId
+				+ ", quantity=" + quantity + ", address=" + address + ", userId=" + userId + ",password= " + password + "]";
+	}
+
+}

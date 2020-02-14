@@ -1,0 +1,5625 @@
+[main] INFO  StoresInfo  - 1.Admin
+[main] INFO  StoresInfo  - 2.Manufacturer
+[main] INFO  StoresInfo  - 3.Dealer
+[main] INFO  StoresInfo  - 4.Exit
+[main] INFO  StoresInfo  - +=+=+=+=+=+=+=+=+=+=+=+=
+[main] INFO  StoresInfo  - Enter Your Choice
+[main] INFO  StoresInfo  - +=+=+=+=+=+=+=+=+=+=+=+=
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Username:
+Enter Your Password:
+Successfully Login
+Welcome to Admin's Page
+1.Add Manufactures
+2.Update Manufactures
+3.Delete Manufactures
+4.Show Manufactures
+5.Exit
+************************
+Enter Your Choice
+************************
+Enter the UserId
+Enter the Email
+Enter the Location
+Enter the Password
+Enter the Role
+Enter the UserName
+Insert Succesfully
+************************
+Enter Your Choice
+************************
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Username:
+Enter Your Password:
+Successfully Login
+Welcome to Admin's Page
+1.Add Manufactures
+2.Update Manufactures
+3.Delete Manufactures
+4.Show Manufactures
+5.Exit
+************************
+Enter Your Choice
+************************
+Enter the UserId
+Enter the Email
+Enter the Location
+Enter the Password
+Enter the Role
+Enter the UserName
+Insert Succesfully
+************************
+Enter Your Choice
+************************
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Username:
+Enter Your Password:
+Successfully Login
+Welcome to Admin's Page
+1.Add Manufactures
+2.Update Manufactures
+3.Delete Manufactures
+4.Show Manufactures
+5.Exit
+************************
+Enter Your Choice
+************************
+Enter the UserId
+Enter the Email
+Enter the Location
+Enter the Password
+Enter the Role
+Enter the UserName
+Insert Succesfully
+************************
+Enter Your Choice
+************************
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Username:
+Enter Your Password:
+Successfully Login
+Welcome to Admin's Page
+1.Add Manufactures
+2.Update Manufactures
+3.Delete Manufactures
+4.Show Manufactures
+5.Exit
+************************
+Enter Your Choice
+************************
+Enter the UserId
+Enter the Email
+Enter the Location
+Enter the Password
+Enter the Role
+Enter the UserName
+Insert Succesfully
+************************
+Enter Your Choice
+************************
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Username:
+Enter Your Password:
+Successfully Login
+Welcome to Admin's Page
+1.Add Manufactures
+2.Update Manufactures
+3.Delete Manufactures
+4.Show Manufactures
+5.Exit
+************************
+Enter Your Choice
+************************
+Enter the UserId
+Enter the Email
+Enter the Location
+Enter the Password
+Enter the Role
+Enter the UserName
+Insert Succesfully
+************************
+Enter Your Choice
+************************
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Manufactures Page
+1.Add Dealer
+2.Modify Dealer
+3.Remove Dealers
+4.View Dealers
+5.Add Products
+6.Modify Products
+7.Remove Products
+8.View Products
+9.View Store
+10.Exit
+************************
+Enter Your Choice
+************************
+Enter the ProductId
+Enter the Brand
+Enter the Price
+Enter the Stocks
+Enter the Warranty
+Insert Succesfully
+************************
+Enter Your Choice
+************************
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Username:
+Enter Your Password:
+Successfully Login
+Welcome to Admin's Page
+1.Add Manufactures
+2.Update Manufactures
+3.Delete Manufactures
+4.Show Manufactures
+5.Exit
+************************
+Enter Your Choice
+************************
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Manufactures Page
+1.Add Dealer
+2.Modify Dealer
+3.Remove Dealers
+4.View Dealers
+5.Add Products
+6.Modify Products
+7.Remove Products
+8.View Products
+9.View Store
+10.Exit
+************************
+Enter Your Choice
+************************
+Enter the ProductId
+Enter the Brand
+Enter the Price
+Enter the Stocks
+Enter the Warranty
+Insert Succesfully
+************************
+Enter Your Choice
+************************
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Manufactures Page
+1.Add Dealer
+2.Modify Dealer
+3.Remove Dealers
+4.View Dealers
+5.Add Products
+6.Modify Products
+7.Remove Products
+8.View Products
+9.View Store
+10.Exit
+************************
+Enter Your Choice
+************************
+Enter the UserId
+Enter the Email
+Enter the Location
+Enter the Password
+Enter the Role
+Enter the UserName
+Insert Succesfully
+************************
+Enter Your Choice
+************************
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Manufactures Page
+1.Add Dealer
+2.Modify Dealer
+3.Remove Dealers
+4.View Dealers
+5.Add Products
+6.Modify Products
+7.Remove Products
+8.View Products
+9.View Store
+10.Exit
+************************
+Enter Your Choice
+************************
+Enter the ProductId
+Enter the Brand
+Enter the Price
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Manufactures Page
+1.Add Dealer
+2.Modify Dealer
+3.Remove Dealers
+4.View Dealers
+5.Add Products
+6.Modify Products
+7.Remove Products
+8.View Products
+9.View Store
+10.Exit
+************************
+Enter Your Choice
+************************
+Enter the ProductId
+Enter the Brand
+Enter the Price
+Enter the Stocks
+Enter the Warranty
+Insert Succesfully
+************************
+Enter Your Choice
+************************
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Manufactures Page
+1.Add Dealer
+2.Modify Dealer
+3.Remove Dealers
+4.View Dealers
+5.Add Products
+6.Modify Products
+7.Remove Products
+8.View Products
+9.View Store
+10.Exit
+************************
+Enter Your Choice
+************************
+Enter the UserId
+Enter the Email
+Enter the Location
+Enter the Password
+Enter the Role
+Enter the UserName
+Insert Succesfully
+************************
+Enter Your Choice
+************************
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Manufactures Page
+1.Add Dealer
+2.Modify Dealer
+3.Remove Dealers
+4.View Dealers
+5.Add Products
+6.Modify Products
+7.Remove Products
+8.View Products
+9.View Store
+10.Exit
+************************
+Enter Your Choice
+************************
+************************
+Enter Your Choice
+************************
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Manufactures Page
+1.Add Dealer
+2.Modify Dealer
+3.Remove Dealers
+4.View Dealers
+5.Add Products
+6.Modify Products
+7.Remove Products
+8.View Products
+9.View Store
+10.Exit
+************************
+Enter Your Choice
+************************
+Enter the UserId(String) You want to Delete
+User_Id is deleted Succesfully
+************************
+Enter Your Choice
+************************
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Manufactures Page
+1.Add Dealer
+2.Modify Dealer
+3.Remove Dealers
+4.View Dealers
+5.Add Products
+6.Modify Products
+7.Remove Products
+8.View Products
+9.View Store
+10.Exit
+************************
+Enter Your Choice
+************************
+Enter which role(Users) you want to see
+************************
+Enter Your Choice
+************************
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Manufactures Page
+1.Add Dealer
+2.Modify Dealer
+3.Remove Dealers
+4.View Dealers
+5.Add Products
+6.Modify Products
+7.Remove Products
+8.View Products
+9.View Store
+10.Exit
+************************
+Enter Your Choice
+************************
+************************
+Enter Your Choice
+************************
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Username:
+Enter Your Password:
+Successfully Login
+Welcome to Admin's Page
+1.Add Manufactures
+2.Update Manufactures
+3.Delete Manufactures
+4.Show Manufactures
+5.Exit
+************************
+Enter Your Choice
+************************
+Enter the UserId
+Enter the Email
+Enter the Location
+Enter the Password
+Enter the Role
+Enter the UserName
+Insert Succesfully
+************************
+Enter Your Choice
+************************
+Enter the UserId(String) You want to Delete
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Dealer's Page
+1.Make Orders
+2.Delete Orders
+3.Show All Products
+4.Show All Orders
+5.Show My Store
+5.Exit
+************************
+Enter Your Choice
+************************
+Enter UserName
+Enter Password
+Enter orderId 
+Enter productId 
+Enter Quantity 
+Enter address
+Insert Succesfully
+************************
+Enter Your Choice
+************************
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Dealer's Page
+1.Make Orders
+2.Delete Orders
+3.Show All Products
+4.Show All Orders
+5.Show My Store
+5.Exit
+************************
+Enter Your Choice
+************************
+Enter UserName
+Enter Password
+Enter orderId 
+Enter productId 
+Enter Quantity 
+Enter address
+Insert Succesfully
+************************
+Enter Your Choice
+************************
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Dealer's Page
+1.Make Orders
+2.Delete Orders
+3.Show All Products
+4.Show All Orders
+5.Show My Store
+5.Exit
+************************
+Enter Your Choice
+************************
+Enter UserName
+Enter Password
+Enter orderId 
+Enter productId 
+Enter Quantity 
+Enter address
+Insert Succesfully
+************************
+Enter Your Choice
+************************
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Dealer's Page
+1.Make Orders
+2.Delete Orders
+3.Show All Products
+4.Show All Orders
+5.Show My Store
+5.Exit
+************************
+Enter Your Choice
+************************
+njhh
+************************
+Enter Your Choice
+************************
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Dealer's Page
+1.Make Orders
+2.Delete Orders
+3.Show All Products
+4.Show All Orders
+5.Show My Store
+5.Exit
+************************
+Enter Your Choice
+************************
+Enter the UserName for seeing StoreUnit
+************************
+Enter Your Choice
+************************
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Dealer's Page
+1.Make Orders
+2.Delete Orders
+3.Show All Products
+4.Show All Orders
+5.Show My Store
+5.Exit
+************************
+Enter Your Choice
+************************
+Enter the StoreId You want to See
+************************
+Enter Your Choice
+************************
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Dealer's Page
+1.Make Orders
+2.Delete Orders
+3.Show All Products
+4.Show All Orders
+5.Show My Store
+5.Exit
+************************
+Enter Your Choice
+************************
+Enter the UserName for seeing StoreUnit
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Dealer's Page
+1.Make Orders
+2.Delete Orders
+3.Show All Products
+4.Show All Orders
+5.Show My Store
+5.Exit
+************************
+Enter Your Choice
+************************
+Enter the UserName for seeing StoreUnit
+************************
+Enter Your Choice
+************************
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Dealer's Page
+1.Make Orders
+2.Delete Orders
+3.Show All Products
+4.Show All Orders
+5.Show My Store
+5.Exit
+************************
+Enter Your Choice
+************************
+Enter UserName
+Enter Password
+Enter orderId 
+Enter productId 
+Enter Quantity 
+Enter address
+Insert Succesfully
+************************
+Enter Your Choice
+************************
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Dealer's Page
+1.Make Orders
+2.Delete Orders
+3.Show All Products
+4.Show All Orders
+5.Show My Store
+5.Exit
+************************
+Enter Your Choice
+************************
+Enter UserName
+Enter Password
+Enter orderId 
+Enter productId 
+Enter Quantity 
+Enter address
+Insert Succesfully
+************************
+Enter Your Choice
+************************
+Enter the orderId You want to Delete
+OrderId is deleted Succesfully
+************************
+Enter Your Choice
+************************
+njhh
+************************
+Enter Your Choice
+************************
+Enter the UserName for seeing StoreUnit
+************************
+Enter Your Choice
+************************
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Dealer's Page
+1.Make Orders
+2.Delete Orders
+3.Show All Products
+4.Show All Orders
+5.Show My Store
+5.Exit
+************************
+Enter Your Choice
+************************
+Enter the UserName for seeing StoreUnit
+************************
+Enter Your Choice
+************************
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Dealer's Page
+1.Make Orders
+2.Delete Orders
+3.Show All Products
+4.Show All Orders
+5.Show My Store
+5.Exit
+************************
+Enter Your Choice
+************************
+Enter the UserName for seeing StoreUnit
+manu
+************************
+Enter Your Choice
+************************
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Dealer's Page
+1.Make Orders
+2.Delete Orders
+3.Show All Products
+4.Show All Orders
+5.Show My Store
+5.Exit
+************************
+Enter Your Choice
+************************
+Enter the StoreId You want to See
+************************
+Enter Your Choice
+************************
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Dealer's Page
+1.Make Orders
+2.Delete Orders
+3.Show All Products
+4.Show All Orders
+5.Show My Store
+5.Exit
+************************
+Enter Your Choice
+************************
+Enter the StoreId You want to See
+************************
+Enter Your Choice
+************************
+Enter the UserId for seeing StoreUnit
+************************
+Enter Your Choice
+************************
+Enter the UserId for seeing StoreUnit
+manu
+************************
+Enter Your Choice
+************************
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Dealer's Page
+1.Make Orders
+2.Delete Orders
+3.Show All Products
+4.Show All Orders
+5.Show My Store
+5.Exit
+************************
+Enter Your Choice
+************************
+Enter UserName
+Enter Password
+Enter orderId 
+Enter productId 
+Enter Quantity 
+Enter address
+Insert Succesfully
+************************
+Enter Your Choice
+************************
+Enter the orderId You want to Delete
+OrderId is deleted Succesfully
+************************
+Enter Your Choice
+************************
+njhh
+************************
+Enter Your Choice
+************************
+Enter the UserId for seeing StoreUnit
+manu
+************************
+Enter Your Choice
+************************
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Dealer's Page
+1.Make Orders
+2.Delete Orders
+3.Show All Products
+4.Show All Orders
+5.Show My Store
+5.Exit
+************************
+Enter Your Choice
+************************
+Enter the StoreId You want to See
+3
+************************
+Enter Your Choice
+************************
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Manufactures Page
+1.Add Dealer
+2.Modify Dealer
+3.Remove Dealers
+4.View Dealers
+5.Add Products
+6.Modify Products
+7.Remove Products
+8.View Products
+9.View Store
+10.Exit
+************************
+Enter Your Choice
+************************
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Dealer's Page
+1.Make Orders
+2.Delete Orders
+3.Show All Products
+4.Show All Orders
+5.Show My Store
+5.Exit
+************************
+Enter Your Choice
+************************
+Enter UserName
+Enter Password
+Enter orderId 
+Enter productId 
+Enter Quantity 
+Enter address
+Insert Succesfully
+************************
+Enter Your Choice
+************************
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Username:
+Enter Your Password:
+Successfully Login
+Welcome to Admin's Page
+1.Add Manufactures
+2.Update Manufactures
+3.Delete Manufactures
+4.Show Manufactures
+5.Exit
+************************
+Enter Your Choice
+************************
+Enter the UserId
+Enter the Email
+Enter the Location
+Enter the Password
+Enter the Role
+Enter the UserName
+Insert Succesfully
+************************
+Enter Your Choice
+************************
+Enter the User_ID You want to Update
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Username:
+Enter Your Password:
+Successfully Login
+Welcome to Admin's Page
+1.Add Manufactures
+2.Update Manufactures
+3.Delete Manufactures
+4.Show Manufactures
+5.Exit
+************************
+Enter Your Choice
+************************
+Enter the User_ID You want to Update
+Enter the Username
+Enter the Password
+Enter the email
+
+
+Record has been updated Successfully!!!
+************************
+Enter Your Choice
+************************
+Enter the UserId(String) You want to Delete
+User_Id is deleted Succesfully
+************************
+Enter Your Choice
+************************
+--------------Manufacturer's Info----------------
+[]
+************************
+Enter Your Choice
+************************
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Username:
+Enter Your Password:
+Successfully Login
+Welcome to Admin's Page
+1.Add Manufactures
+2.Update Manufactures
+3.Delete Manufactures
+4.Show Manufactures
+5.Exit
+************************
+Enter Your Choice
+************************
+--------------Manufacturer's Info----------------
+[]
+************************
+Enter Your Choice
+************************
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Manufactures Page
+1.Add Dealer
+2.Modify Dealer
+3.Remove Dealers
+4.View Dealers
+5.Add Products
+6.Modify Products
+7.Remove Products
+8.View Products
+9.View Store
+10.Exit
+************************
+Enter Your Choice
+************************
+************************
+Enter Your Choice
+************************
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Username:
+Enter Your Password:
+Successfully Login
+Welcome to Admin's Page
+1.Add Manufactures
+2.Update Manufactures
+3.Delete Manufactures
+4.Show Manufactures
+5.Exit
+************************
+Enter Your Choice
+************************
+Enter the User_ID You want to Update
+Enter the Username
+Enter the Password
+Enter the email
+
+
+Record has been updated Successfully!!!
+************************
+Enter Your Choice
+************************
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Username:
+Enter Your Password:
+Successfully Login
+Welcome to Admin's Page
+1.Add Manufactures
+2.Update Manufactures
+3.Delete Manufactures
+4.Show Manufactures
+5.Exit
+************************
+Enter Your Choice
+************************
+Enter the UserId(String) You want to Delete
+User_Id is deleted Succesfully
+************************
+Enter Your Choice
+************************
+Enter the UserId
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Username:
+Enter Your Password:
+Successfully Login
+Welcome to Admin's Page
+1.Add Manufactures
+2.Update Manufactures
+3.Delete Manufactures
+4.Show Manufactures
+5.Exit
+************************
+Enter Your Choice
+************************
+Enter the User_ID You want to Update
+Enter the Username
+Enter the Password
+Enter the email
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Username:
+Enter Your Password:
+Successfully Login
+Welcome to Admin's Page
+1.Add Manufactures
+2.Update Manufactures
+3.Delete Manufactures
+4.Show Manufactures
+5.Exit
+************************
+Enter Your Choice
+************************
+Enter the User_ID You want to Update
+Enter the Username
+Enter the Password
+Enter the email
+
+
+Record has been updated Successfully!!!
+************************
+Enter Your Choice
+************************
+Enter the UserId(String) You want to Delete
+User_Id is deleted Succesfully
+************************
+Enter Your Choice
+************************
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Username:
+Enter Your Password:
+Successfully Login
+Welcome to Admin's Page
+1.Add Manufactures
+2.Update Manufactures
+3.Delete Manufactures
+4.Show Manufactures
+5.Exit
+************************
+Enter Your Choice
+************************
+--------------Manufacturer's Info----------------
+[]
+************************
+Enter Your Choice
+************************
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Manufactures Page
+1.Add Dealer
+2.Modify Dealer
+3.Remove Dealers
+4.View Dealers
+5.Add Products
+6.Modify Products
+7.Remove Products
+8.View Products
+9.View Store
+10.Exit
+************************
+Enter Your Choice
+************************
+Enter the UserId
+Enter the Email
+Enter the Location
+Enter the Password
+Enter the Role
+Enter the UserName
+Insert Succesfully
+************************
+Enter Your Choice
+************************
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Manufactures Page
+1.Add Dealer
+2.Modify Dealer
+3.Remove Dealers
+4.View Dealers
+5.Add Products
+6.Modify Products
+7.Remove Products
+8.View Products
+9.View Store
+10.Exit
+************************
+Enter Your Choice
+************************
+************************
+Enter Your Choice
+************************
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Manufactures Page
+1.Add Dealer
+2.Modify Dealer
+3.Remove Dealers
+4.View Dealers
+5.Add Products
+6.Modify Products
+7.Remove Products
+8.View Products
+9.View Store
+10.Exit
+************************
+Enter Your Choice
+************************
+************************
+Enter Your Choice
+************************
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Manufactures Page
+1.Add Dealer
+2.Modify Dealer
+3.Remove Dealers
+4.View Dealers
+5.Add Products
+6.Modify Products
+7.Remove Products
+8.View Products
+9.View Store
+10.Exit
+************************
+Enter Your Choice
+************************
+Enter which role(Users) you want to see
+************************
+Enter Your Choice
+************************
+************************
+Enter Your Choice
+************************
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Username:
+Enter Your Password:
+Successfully Login
+Welcome to Admin's Page
+1.Add Manufactures
+2.Update Manufactures
+3.Delete Manufactures
+4.Show Manufactures
+5.Exit
+************************
+Enter Your Choice
+************************
+Enter the UserId
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Username:
+Enter Your Password:
+Successfully Login
+Welcome to Admin's Page
+1.Add Manufactures
+2.Update Manufactures
+3.Delete Manufactures
+4.Show Manufactures
+5.Exit
+************************
+Enter Your Choice
+************************
+--------------Manufacturer's Info----------------
+[]
+************************
+Enter Your Choice
+************************
+Enter the UserId
+Enter the Email
+Enter the Location
+Enter the Password
+Enter the Role
+Enter the UserName
+************************
+Enter Your Choice
+************************
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Username:
+Enter Your Password:
+Successfully Login
+Welcome to Admin's Page
+1.Add Manufactures
+2.Update Manufactures
+3.Delete Manufactures
+4.Show Manufactures
+5.Exit
+************************
+Enter Your Choice
+************************
+--------------Manufacturer's Info----------------
+[manu, 101, sdfghj]
+************************
+Enter Your Choice
+************************
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Username:
+Enter Your Password:
+Successfully Login
+Welcome to Admin's Page
+1.Add Manufactures
+2.Update Manufactures
+3.Delete Manufactures
+4.Show Manufactures
+5.Exit
+************************
+Enter Your Choice
+************************
+--------------Manufacturer's Info----------------
+[manu, 101, sdfghj]
+************************
+Enter Your Choice
+************************
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Username:
+Enter Your Password:
+Successfully Login
+Welcome to Admin's Page
+1.Add Manufactures
+2.Update Manufactures
+3.Delete Manufactures
+4.Show Manufactures
+5.Exit
+************************
+Enter Your Choice
+************************
+--------------Manufacturer's Info----------------
+[manu, 101, sdfghj]
+************************
+Enter Your Choice
+************************
+Enter the UserId(String) You want to Delete
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
++=+=+=+=+=+=+=+=+=+=+=+=
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+2.Manufacturer
+3.Dealer
+4.Exit
+1.Admin
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+2.Manufacturer
+3.Dealer
+4.Exit
+1.Admin
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+1.Admin
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Username:
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Username:
+Enter Your Password:
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Username:
+Enter Your Password:
+Successfully Login
+Welcome to Admin's Page
+1.Add Manufactures
+2.Update Manufactures
+3.Delete Manufactures
+4.Show Manufactures
+5.Exit
+************************
+Enter Your Choice
+************************
+Enter the UserId
+Enter the Email
+Enter the Location
+Enter the Password
+Enter the Role
+Enter the UserName
+************************
+Enter Your Choice
+************************
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Username:
+Enter Your Password:
+Successfully Login
+Welcome to Admin's Page
+1.Add Manufactures
+2.Update Manufactures
+3.Delete Manufactures
+4.Show Manufactures
+5.Exit
+************************
+Enter Your Choice
+************************
+Enter the UserId
+Enter the Email
+Enter the Location
+Enter the Password
+Enter the Role
+Enter the UserName
+************************
+Enter Your Choice
+************************
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Username:
+Enter Your Password:
+Successfully Login
+Welcome to Admin's Page
+1.Add Manufactures
+2.Update Manufactures
+3.Delete Manufactures
+4.Show Manufactures
+5.Exit
+************************
+Enter Your Choice
+************************
+Enter the UserId
+Enter the Email
+Enter the Location
+Enter the Password
+Enter the Role
+Enter the UserName
+************************
+Enter Your Choice
+************************
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Username:
+Enter Your Password:
+Successfully Login
+Welcome to Admin's Page
+1.Add Manufactures
+2.Update Manufactures
+3.Delete Manufactures
+4.Show Manufactures
+5.Exit
+************************
+Enter Your Choice
+************************
+Enter the UserId
+Enter the Email
+Enter the Location
+Enter the Password
+Enter the Role
+Enter the UserName
+Insert Succesfully
+************************
+Enter Your Choice
+************************
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Username:
+Enter Your Password:
+Successfully Login
+Welcome to Admin's Page
+1.Add Manufactures
+2.Update Manufactures
+3.Delete Manufactures
+4.Show Manufactures
+5.Exit
+************************
+Enter Your Choice
+************************
+Enter the UserId(String) You want to Delete
+User_Id is deleted Succesfully
+************************
+Enter Your Choice
+************************
+Enter the User_ID You want to Update
+Enter the Username
+Enter the Password
+Enter the email
+Record has been updated Successfully!!!
+************************
+Enter Your Choice
+************************
+--------------Manufacturer's Info----------------
+[manu, 101, sdfghj]
+************************
+Enter Your Choice
+************************
+--------------Manufacturer's Info----------------
+[manu, 101, sdfghj]
+************************
+Enter Your Choice
+************************
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Manufactures Page
+1.Add Dealer
+2.Modify Dealer
+3.Remove Dealers
+4.View Dealers
+5.Add Products
+6.Modify Products
+7.Remove Products
+8.View Products
+9.View Store
+10.Exit
+************************
+Enter Your Choice
+************************
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Username:
+Enter Your Password:
+Successfully Login
+Welcome to Admin's Page
+1.Add Manufactures
+2.Update Manufactures
+3.Delete Manufactures
+4.Show Manufactures
+5.Exit
+************************
+Enter Your Choice
+************************
+--------------Manufacturer's Info----------------
+[manu, 101, sdfghj, bnglr, sdfghj, 111, asdfgh, dfghj, lkjhgf, 112, hyd, manager, gerge, 12, ggwer, grewwer, cawdm, 121, samgv;am, nlasndl, kandoori, 123, kumar1234@gmail.com, jdgj, jhd, 181, djab, adjk]
+************************
+Enter Your Choice
+************************
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Manufactures Page
+1.Add Dealer
+2.Modify Dealer
+3.Remove Dealers
+4.View Dealers
+5.Add Products
+6.Modify Products
+7.Remove Products
+8.View Products
+9.View Store
+10.Exit
+************************
+Enter Your Choice
+************************
+Enter the UserId
+Enter the Email
+Enter the Location
+Enter the Password
+Enter the Role
+Enter the UserName
+Insert Succesfully
+************************
+Enter Your Choice
+************************
+************************
+Enter Your Choice
+************************
+Enter the UserId(String) You want to Delete
+User_Id is deleted Succesfully
+************************
+Enter Your Choice
+************************
+Enter which role(Users) you want to see
+************************
+Enter Your Choice
+************************
+Enter the ProductId
+Enter the Brand
+Enter the Price
+Enter the Stocks
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Manufactures Page
+1.Add Dealer
+2.Modify Dealer
+3.Remove Dealers
+4.View Dealers
+5.Add Products
+6.Modify Products
+7.Remove Products
+8.View Products
+9.View Store
+10.Exit
+************************
+Enter Your Choice
+************************
+Enter the ProductId You want to Delete
+User_Id is deleted Succesfully
+************************
+Enter Your Choice
+************************
+Enter the UserId
+Enter the Email
+Enter the Location
+Enter the Password
+Enter the Role
+Enter the UserName
+Insert Succesfully
+************************
+Enter Your Choice
+************************
+Enter the UserId(String) You want to Delete
+User_Id is deleted Succesfully
+************************
+Enter Your Choice
+************************
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Manufactures Page
+1.Add Dealer
+2.Modify Dealer
+3.Remove Dealers
+4.View Dealers
+5.Add Products
+6.Modify Products
+7.Remove Products
+8.View Products
+9.View Store
+10.Exit
+************************
+Enter Your Choice
+************************
+Enter the UserId(String) You want to Delete
+User_Id is deleted Succesfully
+************************
+Enter Your Choice
+************************
+Enter which role(Users) you want to see
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Manufactures Page
+1.Add Dealer
+2.Modify Dealer
+3.Remove Dealers
+4.View Dealers
+5.Add Products
+6.Modify Products
+7.Remove Products
+8.View Products
+9.View Store
+10.Exit
+************************
+Enter Your Choice
+************************
+************************
+Enter Your Choice
+************************
+************************
+Enter Your Choice
+************************
+************************
+Enter Your Choice
+************************
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Username:
+Enter Your Password:
+Successfully Login
+Welcome to Admin's Page
+1.Add Manufactures
+2.Update Manufactures
+3.Delete Manufactures
+4.Show Manufactures
+5.Exit
+************************
+Enter Your Choice
+************************
+Enter the UserId
+Enter the Email
+Enter the Location
+Enter the Password
+Enter the Role
+Enter the UserName
+Insert Succesfully
+************************
+Enter Your Choice
+************************
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Username:
+Enter Your Password:
+Successfully Login
+Welcome to Admin's Page
+1.Add Manufactures
+2.Update Manufactures
+3.Delete Manufactures
+4.Show Manufactures
+5.Exit
+************************
+Enter Your Choice
+************************
+Enter the UserId
+Enter the Email
+Enter the Location
+Enter the Password
+Enter the Role
+Enter the UserName
+Insert Succesfully
+************************
+Enter Your Choice
+************************
+Enter the User_ID You want to Update
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Manufactures Page
+1.Add Dealer
+2.Modify Dealer
+3.Remove Dealers
+4.View Dealers
+5.Add Products
+6.Modify Products
+7.Remove Products
+8.View Products
+9.View Store
+10.Exit
+************************
+Enter Your Choice
+************************
+Enter the User_ID You want to Update
+Enter the Username
+Enter the Password
+Enter the email
+Updation Failed
+************************
+Enter Your Choice
+************************
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Manufactures Page
+1.Add Dealer
+2.Modify Dealer
+3.Remove Dealers
+4.View Dealers
+5.Add Products
+6.Modify Products
+7.Remove Products
+8.View Products
+9.View Store
+10.Exit
+************************
+Enter Your Choice
+************************
+Enter the User_ID You want to Update
+Enter the Username
+Enter the Password
+Enter the email
+Record has been updated Successfully!!!
+************************
+Enter Your Choice
+************************
+Enter the UserId
+Enter the Email
+Enter the Location
+Enter the Password
+Enter the Role
+Enter the UserName
+Insertion Failed
+************************
+Enter Your Choice
+************************
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Manufactures Page
+1.Add Dealer
+2.Modify Dealer
+3.Remove Dealers
+4.View Dealers
+5.Add Products
+6.Modify Products
+7.Remove Products
+8.View Products
+9.View Store
+10.Exit
+************************
+Enter Your Choice
+************************
+Enter the UserId
+Enter the Email
+Enter the Location
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Manufactures Page
+1.Add Dealer
+2.Modify Dealer
+3.Remove Dealers
+4.View Dealers
+5.Add Products
+6.Modify Products
+7.Remove Products
+8.View Products
+9.View Store
+10.Exit
+************************
+Enter Your Choice
+************************
+Enter the UserId
+Enter the Email
+Enter the Location
+Enter the Password
+Enter the Role
+Enter the UserName
+Insert Succesfully
+************************
+Enter Your Choice
+************************
+Enter the User_ID You want to Update
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Manufactures Page
+1.Add Dealer
+2.Modify Dealer
+3.Remove Dealers
+4.View Dealers
+5.Add Products
+6.Modify Products
+7.Remove Products
+8.View Products
+9.View Store
+10.Exit
+************************
+Enter Your Choice
+************************
+Enter the UserId(String) You want to Delete
+UserId  Not Found
+************************
+Enter Your Choice
+************************
+Enter the UserId(String) You want to Delete
+UserId is deleted Succesfully
+************************
+Enter Your Choice
+************************
+Enter which role(Users) you want to see
+[]
+************************
+Enter Your Choice
+************************
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Manufactures Page
+1.Add Dealer
+2.Modify Dealer
+3.Remove Dealers
+4.View Dealers
+5.Add Products
+6.Modify Products
+7.Remove Products
+8.View Products
+9.View Store
+10.Exit
+************************
+Enter Your Choice
+************************
+Enter which role(Users) you want to see
+[]
+************************
+Enter Your Choice
+************************
+Enter which role(Users) you want to see
+[]
+************************
+Enter Your Choice
+************************
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Manufactures Page
+1.Add Dealer
+2.Modify Dealer
+3.Remove Dealers
+4.View Dealers
+5.Add Products
+6.Modify Products
+7.Remove Products
+8.View Products
+9.View Store
+10.Exit
+************************
+Enter Your Choice
+************************
+Enter the ProductId
+Enter the Brand
+Enter the Price
+Enter the Stocks
+Enter the Warranty
+Insertion Failed
+************************
+Enter Your Choice
+************************
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Manufactures Page
+1.Add Dealer
+2.Modify Dealer
+3.Remove Dealers
+4.View Dealers
+5.Add Products
+6.Modify Products
+7.Remove Products
+8.View Products
+9.View Store
+10.Exit
+************************
+Enter Your Choice
+************************
+Enter the ProductID You want to Update
+Enter the price
+Enter the Warranty
+Record has been updated Successfully!!!
+************************
+Enter Your Choice
+************************
+Enter the ProductId You want to Delete
+UserId is deleted Succesfully
+************************
+Enter Your Choice
+************************
+[njhh]
+************************
+Enter Your Choice
+************************
+[12, 3, 123]
+************************
+Enter Your Choice
+************************
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Dealer's Page
+1.Make Orders
+2.Delete Orders
+3.Show All Products
+4.Show All Orders
+5.Show My Store
+5.Exit
+************************
+Enter Your Choice
+************************
+Enter UserName
+Enter Password
+Enter orderId 
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Username:
+Enter Your Password:
+Successfully Login
+Welcome to Admin's Page
+1.Add Manufactures
+2.Update Manufactures
+3.Delete Manufactures
+4.Show Manufactures
+5.Exit
+************************
+Enter Your Choice
+************************
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Username:
+Enter Your Password:
+Successfully Login
+Welcome to Admin's Page
+1.Add Manufactures
+2.Update Manufactures
+3.Delete Manufactures
+4.Show Manufactures
+5.Exit
+************************
+Enter Your Choice
+************************
+Enter the UserId
+Enter the Email
+Enter the Location
+Enter the Password
+Enter the Role
+Enter the UserName
+Insert Succesfully
+************************
+Enter Your Choice
+************************
+Enter the User_ID You want to Update
+Enter the Username
+Enter the Password
+Enter the email
+Record has been updated Successfully!!!
+************************
+Enter Your Choice
+************************
+Enter the UserId(String) You want to Delete
+User_Id is deleted Succesfully
+************************
+Enter Your Choice
+************************
+--------------Manufacturer's Info----------------
+[naveen, 101, naveen, dfshaj]
+************************
+Enter Your Choice
+************************
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Manufactures Page
+1.Add Dealer
+2.Modify Dealer
+3.Remove Dealers
+4.View Dealers
+5.Add Products
+6.Modify Products
+7.Remove Products
+8.View Products
+9.View Store
+10.Exit
+************************
+Enter Your Choice
+************************
+Enter the UserId
+Enter the Email
+Enter the Location
+Enter the Password
+Enter the Role
+Enter the UserName
+Insert Succesfully
+************************
+Enter Your Choice
+************************
+Enter the User_ID You want to Update
+Enter the Username
+Enter the Password
+Enter the email
+Record has been updated Successfully!!!
+************************
+Enter Your Choice
+************************
+Enter the UserId(String) You want to Delete
+UserId is deleted Succesfully
+************************
+Enter Your Choice
+************************
+Enter which role(Users) you want to see
+[]
+************************
+Enter Your Choice
+************************
+Enter the ProductId
+Enter the Brand
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Manufactures Page
+1.Add Dealer
+2.Modify Dealer
+3.Remove Dealers
+4.View Dealers
+5.Add Products
+6.Modify Products
+7.Remove Products
+8.View Products
+9.View Store
+10.Exit
+************************
+Enter Your Choice
+************************
+Enter the ProductId
+Enter the Brand
+Enter the Price
+Enter the Stocks
+Enter the Warranty
+Insertion Failed
+************************
+Enter Your Choice
+************************
+Enter the ProductID You want to Update
+Enter the price
+Enter the Warranty
+Record has been updated Successfully!!!
+************************
+Enter Your Choice
+************************
+Enter the ProductId You want to Delete
+UserId is deleted Succesfully
+************************
+Enter Your Choice
+************************
+[]
+************************
+Enter Your Choice
+************************
+Enter the ProductId You want to Delete
+UserId is deleted Succesfully
+************************
+Enter Your Choice
+************************
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Manufactures Page
+1.Add Dealer
+2.Modify Dealer
+3.Remove Dealers
+4.View Dealers
+5.Add Products
+6.Modify Products
+7.Remove Products
+8.View Products
+9.View Store
+10.Exit
+************************
+Enter Your Choice
+************************
+[bmw]
+************************
+Enter Your Choice
+************************
+[334, 789]
+************************
+Enter Your Choice
+************************
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Dealer's Page
+1.Make Orders
+2.Delete Orders
+3.Show All Products
+4.Show All Orders
+5.Show My Store
+5.Exit
+************************
+Enter Your Choice
+************************
+Enter UserName
+Enter Password
+Enter orderId 
+Enter productId 
+Enter Quantity 
+Enter address
+Insert Succesfully
+************************
+Enter Your Choice
+************************
+Enter the orderId You want to Delete
+OrderId is deleted Succesfully
+************************
+Enter Your Choice
+************************
+bmw
+************************
+Enter Your Choice
+************************
+Enter the UserId for seeing StoreUnit
+************************
+Enter Your Choice
+************************
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Dealer's Page
+1.Make Orders
+2.Delete Orders
+3.Show All Products
+4.Show All Orders
+5.Show My Store
+5.Exit
+************************
+Enter Your Choice
+************************
+bmw
+************************
+Enter Your Choice
+************************
+Enter the UserId for seeing StoreUnit
+naveen
+************************
+Enter Your Choice
+************************
+Enter the StoreId You want to See
+789
+************************
+Enter Your Choice
+************************
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Manufactures Page
+1.Add Dealer
+2.Modify Dealer
+3.Remove Dealers
+4.View Dealers
+5.Add Products
+6.Modify Products
+7.Remove Products
+8.View Products
+9.View Store
+10.Exit
+************************
+Enter Your Choice
+************************
+Enter the ProductId
+Enter the Brand
+Enter the Price
+Enter the Stocks
+Enter the Warranty
+Insertion Failed
+************************
+Enter Your Choice
+************************
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Manufactures Page
+1.Add Dealer
+2.Modify Dealer
+3.Remove Dealers
+4.View Dealers
+5.Add Products
+6.Modify Products
+7.Remove Products
+8.View Products
+9.View Store
+10.Exit
+************************
+Enter Your Choice
+************************
+Enter the ProductId
+Enter the Brand
+Enter the Price
+Enter the Stocks
+Enter the Warranty
+Insert Succesfully
+************************
+Enter Your Choice
+************************
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Manufactures Page
+1.Add Dealer
+2.Modify Dealer
+3.Remove Dealers
+4.View Dealers
+5.Add Products
+6.Modify Products
+7.Remove Products
+8.View Products
+9.View Store
+10.Exit
+************************
+Enter Your Choice
+************************
+Enter the ProductId
+Enter the Brand
+Enter the Price
+Enter the Stocks
+Enter the Warranty
+Insert Succesfully
+************************
+Enter Your Choice
+************************
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Dealer's Page
+1.Make Orders
+2.Delete Orders
+3.Show All Products
+4.Show All Orders
+5.Show My Store
+5.Exit
+************************
+Enter Your Choice
+************************
+Enter the StoreId You want to See
+************************
+Enter Your Choice
+************************
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Dealer's Page
+1.Make Orders
+2.Delete Orders
+3.Show All Products
+4.Show All Orders
+5.Show My Store
+5.Exit
+************************
+Enter Your Choice
+************************
+Enter the StoreId You want to See
+789
+************************
+Enter Your Choice
+************************
+1.Admin
+2.Manufacturer
+3.Dealer
+4.Exit
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice
++=+=+=+=+=+=+=+=+=+=+=+=
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Username:
+Enter Your Password:
+Successfully Login
+Welcome to Admin's Page
+1.Add Manufactures
+2.Update Manufactures
+3.Delete Manufactures
+4.Show Manufactures
+5.Exit
+************************
+Enter Your Choice
+************************
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Username:
+Enter Your Password:
+Successfully Login
+Welcome to Admin's Page
+1.Add Manufactures
+2.Update Manufactures
+3.Delete Manufactures
+4.Show Manufactures
+5.Exit
+************************
+Enter Your Choice
+************************
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Username:
+Enter Your Password:
+Successfully Login
+Welcome to Admin's Page
+1.Add Manufactures
+2.Update Manufactures
+3.Delete Manufactures
+4.Show Manufactures
+5.Exit
+************************
+Enter Your Choice
+************************
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Username:
+Enter Your Password:
+Successfully Login
+Welcome to Admin's Page
+1.Add Manufactures
+2.Update Manufactures
+3.Delete Manufactures
+4.Show Manufactures
+5.Exit
+************************
+Enter Your Choice
+************************
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Username:
+Enter Your Password:
+Successfully Login
+Welcome to Admin's Page
+1.Add Manufactures
+2.Update Manufactures
+3.Delete Manufactures
+4.Show Manufactures
+5.Exit
+************************
+Enter Your Choice
+************************
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Username:
+Enter Your Password:
+Successfully Login
+Welcome to Admin's Page
+1.Add Manufactures
+2.Update Manufactures
+3.Delete Manufactures
+4.Show Manufactures
+5.Exit
+************************
+Enter Your Choice
+************************
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Username:
+Enter Your Password:
+Successfully Login
+Welcome to Admin's Page
+1.Add Manufactures
+2.Update Manufactures
+3.Delete Manufactures
+4.Show Manufactures
+5.Exit
+************************
+Enter Your Choice
+************************
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Username:
+Enter Your Password:
+Successfully Login
+Welcome to Admin's Page
+1.Add Manufactures
+2.Update Manufactures
+3.Delete Manufactures
+4.Show Manufactures
+5.Exit
+************************
+Enter Your Choice
+************************
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter your id
+Enter Your Username:
+Enter Your Password:
+invalid
+Enter your id
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter your id
+Enter Your Username:
+Enter Your Password:
+invalid
+Enter your id
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter your id
+Enter Your Username:
+Enter Your Password:
+successFully Login
+Welcome to Admin's Page
+1.Add Manufactures
+2.Update Manufactures
+3.Delete Manufactures
+4.Show Manufactures
+5.Exit
+************************
+Enter Your Choice
+************************
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter your id
+Enter Your Username:
+Enter Your Password:
+invalid
+Enter your id
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter your id
+Enter Your Username:
+Enter Your Password:
+successFully Login
+Welcome to Admin's Page
+1.Add Manufactures
+2.Update Manufactures
+3.Delete Manufactures
+4.Show Manufactures
+5.Exit
+************************
+Enter Your Choice
+************************
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter your id
+Enter Your Username:
+Enter Your Password:
+invalid
+Enter your id
+Enter Your Username:
+Enter Your Password:
+successFully Login
+Welcome to Admin's Page
+1.Add Manufactures
+2.Update Manufactures
+3.Delete Manufactures
+4.Show Manufactures
+5.Exit
+************************
+Enter Your Choice
+************************
+Enter the UserId
+Enter the Email
+Enter the Address
+Enter the Password
+Enter the Role
+Enter the UserName
+Data Inserted Succesfully
+************************
+Enter Your Choice
+************************
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter your id
+Enter Your Username:
+Enter Your Password:
+successFully Login
+Welcome to Admin's Page
+1.Add Manufactures
+2.Update Manufactures
+3.Delete Manufactures
+4.Show Manufactures
+5.Exit
+************************
+Enter Your Choice
+************************
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter your id
+Enter Your Username:
+Enter Your Password:
+invalid
+Enter your id
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter your id
+Enter Your Username:
+Enter Your Password:
+invalid
+Enter your id
+Enter Your Username:
+Enter Your Password:
+successFully Login
+Welcome to Admin's Page
+1.Add Manufactures
+2.Update Manufactures
+3.Delete Manufactures
+4.Show Manufactures
+5.Exit
+************************
+Enter Your Choice
+************************
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter your id
+Enter Your Username:
+Enter Your Password:
+successFully Login
+Welcome to Admin's Page
+1.Add Manufactures
+2.Update Manufactures
+3.Delete Manufactures
+4.Show Manufactures
+5.Exit
+************************
+Enter Your Choice
+************************
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter your id
+Enter Your Username:
+Enter Your Password:
+invalid
+Enter your id
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Dealer's Page
+1.Make Orders
+2.Delete Orders
+3.Show All Products
+4.Show All Orders
+5.Show My Store
+5.Exit
+************************
+Enter Your Choice
+************************
+Enter UserName
+Enter Password
+Enter orderId 
+Enter productId 
+Enter Quantity 
+Enter address
+Insert Succesfully
+************************
+Enter Your Choice
+************************
+Enter the orderId You want to Delete
+OrderId is deleted Succesfully
+************************
+Enter Your Choice
+************************
+bmw
+micro
+bmw
+************************
+Enter Your Choice
+************************
+Enter the UserId for seeing StoreUnit
+************************
+Enter Your Choice
+************************
+Enter the UserId for seeing StoreUnit
+************************
+Enter Your Choice
+************************
+Enter the UserId for seeing StoreUnit
+naveen
+************************
+Enter Your Choice
+************************
+Enter the StoreId You want to See
+789
+************************
+Enter Your Choice
+************************
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Manufactures Page
+1.Add Dealer
+2.Modify Dealer
+3.Remove Dealers
+4.View Dealers
+5.Add Products
+6.Modify Products
+7.Remove Products
+8.View Products
+9.View Store
+10.Exit
+************************
+Enter Your Choice
+************************
+Enter the UserId
+Enter the Email
+Enter the Location
+Enter the Password
+Enter the Role
+Enter the UserName
+Insert Succesfully
+************************
+Enter Your Choice
+************************
+Enter the User_ID You want to Update
+Enter the Username
+Enter the Password
+Enter the email
+Record has been updated Successfully!!!
+************************
+Enter Your Choice
+************************
+Enter the UserId(String) You want to Delete
+UserId is deleted Succesfully
+************************
+Enter Your Choice
+************************
+Enter which role(Users) you want to see
+[]
+************************
+Enter Your Choice
+************************
+Enter the ProductId
+Enter the Brand
+Enter the Price
+Enter the Stocks
+Enter the Warranty
+Insertion Failed
+************************
+Enter Your Choice
+************************
+Enter the ProductId
+Enter the Brand
+Enter the Price
+Enter the Stocks
+Enter the Warranty
+Insert Succesfully
+************************
+Enter Your Choice
+************************
+Enter the ProductID You want to Update
+Enter the price
+Enter the Warranty
+Record has been updated Successfully!!!
+************************
+Enter Your Choice
+************************
+Enter the ProductId You want to Delete
+UserId is deleted Succesfully
+************************
+Enter Your Choice
+************************
+[bmw, bmw, mi]
+************************
+Enter Your Choice
+************************
+[334, 789]
+************************
+Enter Your Choice
+************************
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter your id
+Enter Your Username:
+Enter Your Password:
+successFully Login
+Welcome to Admin's Page
+1.Add Manufactures
+2.Update Manufactures
+3.Delete Manufactures
+4.Show Manufactures
+5.Exit
+************************
+Enter Your Choice
+************************
+Enter the UserId
+Enter the Email
+Enter the Address
+Enter the Password
+Enter the Role
+Enter the UserName
+Data Inserted Succesfully
+************************
+Enter Your Choice
+************************
+Enter the User_ID You want to Update
+Enter the Username
+Enter the Password
+Enter the email
+Record has been updated Successfully!!!
+************************
+Enter Your Choice
+************************
+Enter the UserId(String) You want to Delete
+User_Id is deleted Succesfully
+************************
+Enter Your Choice
+************************
+--------------Manufacturer's Info----------------
+[]
+************************
+Enter Your Choice
+************************
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter your id
+Enter Your Username:
+Enter Your Password:
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter your id
+Enter Your Username:
+Enter Your Password:
+Enter your id
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter your id
+Enter Your Username:
+Enter Your Password:
+Enter your id
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter your id
+Enter Your Username:
+Enter Your Password:
+Enter your id
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter your id
+Enter Your Username:
+Enter Your Password:
+successFully Login
+Welcome to Admin's Page
+1.Add Manufactures
+2.Update Manufactures
+3.Delete Manufactures
+4.Show Manufactures
+5.Exit
+************************
+Enter Your Choice
+************************
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter your id
+Enter Your Username:
+Enter Your Password:
+Enter your id
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter your id
+Enter Your Username:
+Enter Your Password:
+successFully Login
+Welcome to Admin's Page
+1.Add Manufactures
+2.Update Manufactures
+3.Delete Manufactures
+4.Show Manufactures
+5.Exit
+************************
+Enter Your Choice
+************************
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Manufactures Page
+1.Add Dealer
+2.Modify Dealer
+3.Remove Dealers
+4.View Dealers
+5.Add Products
+6.Modify Products
+7.Remove Products
+8.View Products
+9.View Store
+10.Exit
+************************
+Enter Your Choice
+************************
+Enter which role(Users) you want to see
+[]
+************************
+Enter Your Choice
+************************
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter your id
+Enter Your Username:
+Enter Your Password:
+Enter your id
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter your id
+Enter Your Username:
+Enter Your Password:
+Enter your id
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter your id
+Enter Your Username:
+Enter Your Password:
+Enter your id
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter your id
+Enter Your Username:
+Enter Your Password:
+successFully Login
+Welcome to Admin's Page
+1.Add Manufactures
+2.Update Manufactures
+3.Delete Manufactures
+4.Show Manufactures
+5.Exit
+************************
+Enter Your Choice
+************************
+Enter the UserId
+Invalid !! Try Again
+Enter the UserId
+Enter the Email(It Should contain Capital LettersSpecial Characters,Digits)
+Invalid !! Try Again
+Enter the Email(It Should contain Capital LettersSpecial Characters,Digits)
+Enter the Location(Give it in Alphabets)
+Invalid !! Try Again
+Enter the Location(Give it in Alphabets)
+Enter the Password(Minimum 8 charactersAtleast 1 Capital Letter,1 Special Character
+Enter the Role
+Enter the UserName
+Insert Succesfully
+************************
+Enter Your Choice
+************************
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Manufactures Page
+1.Add Dealer
+2.Modify Dealer
+3.Remove Dealers
+4.View Dealers
+5.Add Products
+6.Modify Products
+7.Remove Products
+8.View Products
+9.View Store
+10.Exit
+************************
+Enter Your Choice
+************************
+Enter the UserId
+Invalid !! Try Again
+Enter the UserId
+Enter the Email(It Should contain Capital LettersSpecial Characters,Digits)
+Enter the Location(Give it in Alphabets)
+Enter the Password(Minimum 8 charactersAtleast 1 Capital Letter,1 Special Character
+Invalid !! Try Again
+Enter the Password(Minimum 8 charactersAtleast 1 Capital Letter,1 Special Character
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter your id
+Enter Your Username:
+Enter Your Password:
+successFully Login
+Welcome to Admin's Page
+1.Add Manufactures
+2.Update Manufactures
+3.Delete Manufactures
+4.Show Manufactures
+5.Exit
+************************
+Enter Your Choice
+************************
+Enter the UserId
+Enter the Email(It Should contain Capital LettersSpecial Characters,Digits)
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter your id
+Enter Your Username:
+Enter Your Password:
+successFully Login
+Welcome to Admin's Page
+1.Add Manufactures
+2.Update Manufactures
+3.Delete Manufactures
+4.Show Manufactures
+5.Exit
+************************
+Enter Your Choice
+************************
+Enter the UserId
+Enter the UserName
+Enter the Email(It Should contain Capital LettersSpecial Characters,Digits)
+Enter the Password(Minimum 8 charactersAtleast 1 Capital Letter,1 Special Character
+Enter the Location(Give it in Alphabets)
+Enter the Role
+Insert Succesfully
+************************
+Enter Your Choice
+************************
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter your id
+Enter Your Username:
+Enter Your Password:
+successFully Login
+Welcome to Admin's Page
+1.Add Manufactures
+2.Update Manufactures
+3.Delete Manufactures
+4.Show Manufactures
+5.Exit
+************************
+Enter Your Choice
+************************
+Enter the UserId
+Enter the UserName
+Enter the Email(It Should contain Capital LettersSpecial Characters,Digits)
+Enter the Password(Minimum 8 charactersAtleast 1 Capital Letter,1 Special Character
+Enter the Location(Give it in Alphabets)
+Enter the Role
+Insert Succesfully
+************************
+Enter Your Choice
+************************
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter your id
+Enter Your Username:
+Enter Your Password:
+successFully Login
+Welcome to Admin's Page
+1.Add Manufactures
+2.Update Manufactures
+3.Delete Manufactures
+4.Show Manufactures
+5.Exit
+************************
+Enter Your Choice
+************************
+Enter the UserId
+Enter the UserName
+Enter the Email(It Should contain Capital LettersSpecial Characters,Digits)
+Enter the Password(Minimum 8 charactersAtleast 1 Capital Letter,1 Special Character
+Enter the Location(Give it in Alphabets)
+Enter the Role
+Insert Succesfully
+************************
+Enter Your Choice
+************************
+Enter the UserID You want to Update
+Enter the Username
+Enter the Password
+Enter the email
+Record has been updated Successfully!!!
+************************
+Enter Your Choice
+************************
+Enter the UserId(String) You want to Delete
+User_Id is deleted Succesfully
+************************
+Enter Your Choice
+************************
+--------------Manufacturer's Info----------------
+[]
+************************
+Enter Your Choice
+************************
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Manufactures Page
+1.Add Dealer
+2.Modify Dealer
+3.Remove Dealers
+4.View Dealers
+5.Add Products
+6.Modify Products
+7.Remove Products
+8.View Products
+9.View Store
+10.Exit
+************************
+Enter Your Choice
+************************
+Enter the UserId
+Enter the Email(It Should contain Capital LettersSpecial Characters,Digits)
+Invalid !! Try Again
+Enter the Email(It Should contain Capital LettersSpecial Characters,Digits)
+Enter the Location(Give it in Alphabets)
+Enter the Password(Minimum 8 charactersAtleast 1 Capital Letter,1 Special Character
+Enter the Role
+Enter the UserName
+Insert Succesfully
+************************
+Enter Your Choice
+************************
+Enter the User_ID You want to Update
+Enter the Username
+Enter the Password
+Enter the email
+Record has been updated Successfully!!!
+************************
+Enter Your Choice
+************************
+Enter the UserId(String) You want to Delete
+UserId is deleted Succesfully
+************************
+Enter Your Choice
+************************
+Enter which role(Users) you want to see
+[]
+************************
+Enter Your Choice
+************************
+Enter the ProductId
+Enter the Brand
+Enter the Price
+Enter the Stocks
+Enter the Warranty
+Invalid !! Try Again
+Enter the Warranty
+Insertion Failed
+************************
+Enter Your Choice
+************************
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter your id
+Enter Your Username:
+Enter Your Password:
+successFully Login
+Welcome to Admin's Page
+1.Add Manufactures
+2.Update Manufactures
+3.Delete Manufactures
+4.Show Manufactures
+5.Exit
+************************
+Enter Your Choice
+************************
+Enter the UserId
+Enter the UserName
+Enter the Email(It Should contain Capital LettersSpecial Characters,Digits)
+Enter the Password(Minimum 8 charactersAtleast 1 Capital Letter,1 Special Character
+Enter the Location(Give it in Alphabets)
+Enter the Role
+Insert Succesfully
+************************
+Enter Your Choice
+************************
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Manufactures Page
+1.Add Dealer
+2.Modify Dealer
+3.Remove Dealers
+4.View Dealers
+5.Add Products
+6.Modify Products
+7.Remove Products
+8.View Products
+9.View Store
+10.Exit
+************************
+Enter Your Choice
+************************
+Enter the ProductId
+Enter the Brand
+Enter the Price
+Enter the Stocks
+Enter the Warranty
+Invalid !! Try Again
+Enter the Warranty
+Insertion Failed
+************************
+Enter Your Choice
+************************
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Manufactures Page
+1.Add Dealer
+2.Modify Dealer
+3.Remove Dealers
+4.View Dealers
+5.Add Products
+6.Modify Products
+7.Remove Products
+8.View Products
+9.View Store
+10.Exit
+************************
+Enter Your Choice
+************************
+Enter the ProductID You want to Update
+Enter the price
+Enter the Warranty
+Invalid !! Try Again
+Enter the Warranty
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Manufactures Page
+1.Add Dealer
+2.Modify Dealer
+3.Remove Dealers
+4.View Dealers
+5.Add Products
+6.Modify Products
+7.Remove Products
+8.View Products
+9.View Store
+10.Exit
+************************
+Enter Your Choice
+************************
+Enter the ProductId
+Enter the Brand
+Enter the Price
+Enter the Stocks
+Enter the Warranty
+Insert Succesfully
+************************
+Enter Your Choice
+************************
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Manufactures Page
+1.Add Dealer
+2.Modify Dealer
+3.Remove Dealers
+4.View Dealers
+5.Add Products
+6.Modify Products
+7.Remove Products
+8.View Products
+9.View Store
+10.Exit
+************************
+Enter Your Choice
+************************
+Enter the ProductId
+Enter the Brand
+Enter the Price
+Enter the Stocks
+Enter the Warranty
+Insert Succesfully
+************************
+Enter Your Choice
+************************
+Enter the ProductID You want to Update
+Enter the price
+Enter the Warranty
+Invalid !! Try Again
+Enter the Warranty
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter your id
+Enter Your Username:
+Enter Your Password:
+
+Enter your id
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter your id
+Enter Your Username:
+Enter Your Password:
+
+Enter your id
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter your id
+Enter Your Username:
+Enter Your Password:
+com.capgemini.storesmanagementsystem.exception.UserNotFoundException
+Enter your id
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter your id
+Enter Your Username:
+Enter Your Password:
+User not found
+Enter your id
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter your id
+Enter Your Username:
+Enter Your Password:
+com.capgemini.storesmanagementsystem.exception.UserNotFoundException: User not found
+Enter your id
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter your id
+Enter Your Username:
+Enter Your Password:
+com.capgemini.storesmanagementsystem.exception.UserNotFoundException: Admin Not found
+Enter your id
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter your id
+Enter Your Username:
+Enter Your Password:
+com.capgemini.storesmanagementsystem.exception.UserNotFoundException: Admin Not found
+Enter your id
+Enter Your Username:
+Enter Your Password:
+successFully Login
+Welcome to Admin's Page
+1.Add Manufactures
+2.Update Manufactures
+3.Delete Manufactures
+4.Show Manufactures
+5.Exit
+************************
+Enter Your Choice
+************************
+Enter the UserId
+Enter the UserName
+Invalid !! Try Again
+Enter the UserName
+Invalid !! Try Again
+Enter the UserName
+Enter the Email(It Should contain Capital LettersSpecial Characters,Digits)
+Enter the Password(Minimum 8 charactersAtleast 1 Capital Letter,1 Special Character
+Enter the Location(Give it in Alphabets)
+Enter the Role
+Insert Succesfully
+************************
+Enter Your Choice
+************************
+Enter the UserID You want to Update
+Enter the Username
+Enter the Password
+Enter the email
+Record has been updated Successfully!!!
+************************
+Enter Your Choice
+************************
+Enter the UserId(String) You want to Delete
+User_Id is deleted Succesfully
+************************
+Enter Your Choice
+************************
+--------------Manufacturer's Info----------------
+[]
+************************
+Enter Your Choice
+************************
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter your id
+Enter Your Username:
+Enter Your Password:
+successFully Login
+Welcome to Admin's Page
+1.Add Manufactures
+2.Update Manufactures
+3.Delete Manufactures
+4.Show Manufactures
+5.Exit
+************************
+Enter Your Choice
+************************
+--------------Manufacturer's Info----------------
+[]
+************************
+Enter Your Choice
+************************
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Manufactures Page
+1.Add Dealer
+2.Modify Dealer
+3.Remove Dealers
+4.View Dealers
+5.Add Products
+6.Modify Products
+7.Remove Products
+8.View Products
+9.View Store
+10.Exit
+************************
+Enter Your Choice
+************************
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter your id
+Enter Your Username:
+Enter Your Password:
+successFully Login
+Welcome to Admin's Page
+1.Add Manufactures
+2.Update Manufactures
+3.Delete Manufactures
+4.Show Manufactures
+5.Exit
+************************
+Enter Your Choice
+************************
+--------------Manufacturer's Info----------------
+[]
+************************
+Enter Your Choice
+************************
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter your id
+Enter Your Username:
+Enter Your Password:
+successFully Login
+Welcome to Admin's Page
+1.Add Manufactures
+2.Update Manufactures
+3.Delete Manufactures
+4.Show Manufactures
+5.Exit
+************************
+Enter Your Choice
+************************
+--------------Manufacturer's Info----------------
+[1, Naveen12@gmail.com, banglore, Naveen@123, dealer, naveen, 101, Naveen, naveen, Naveen@12, Naveen9090@gmail.com, fhsda, 105, Harish, gsdfg, Hariop, sdsf, dfae, 123, Naveen, Naveej89@gmail.com, Hiarty@123, Bnglr, User, 304, Jyothi, Jyothi@12gmail.com, Jyoti@345, Jarkand, Dealer, 444, Naveeneeee, Naveen45@gmail.com, Jkd@dgdfg89, hyderabad, dealer, 878, Naveen@12, bnglr, Iolpo, manufacturer, NAvi, 898, Prachii, Prachi123@gmail.com, Prachi123@, MadhyaPradesh, Manufacturer]
+************************
+Enter Your Choice
+************************
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Manufactures Page
+1.Add Dealer
+2.Modify Dealer
+3.Remove Dealers
+4.View Dealers
+5.Add Products
+6.Modify Products
+7.Remove Products
+8.View Products
+9.View Store
+10.Exit
+************************
+Enter Your Choice
+************************
+Enter the UserId
+Enter the Email
+Enter the Location
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Manufactures Page
+1.Add Dealer
+2.Modify Dealer
+3.Remove Dealers
+4.View Dealers
+5.Add Products
+6.Modify Products
+7.Remove Products
+8.View Products
+9.View Store
+10.Exit
+************************
+Enter Your Choice
+************************
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Manufactures Page
+1.Add Dealer
+2.Modify Dealer
+3.Remove Dealers
+4.View Dealers
+5.Add Products
+6.Modify Products
+7.Remove Products
+8.View Products
+9.View Store
+10.Exit
+************************
+Enter Your Choice
+************************
+[334, 789]
+************************
+Enter Your Choice
+************************
+[bmw, gjg, bmw, mi, ggi]
+************************
+Enter Your Choice
+************************
+Enter which role(Users) you want to see
+[]
+************************
+Enter Your Choice
+************************
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Manufactures Page
+1.Add Dealer
+2.Modify Dealer
+3.Remove Dealers
+4.View Dealers
+5.Add Products
+6.Modify Products
+7.Remove Products
+8.View Products
+9.View Store
+10.Exit
+************************
+Enter Your Choice
+************************
+Enter which role(Users) you want to see
+[]
+************************
+Enter Your Choice
+************************
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Manufactures Page
+1.Add Dealer
+2.Modify Dealer
+3.Remove Dealers
+4.View Dealers
+5.Add Products
+6.Modify Products
+7.Remove Products
+8.View Products
+9.View Store
+10.Exit
+************************
+Enter Your Choice
+************************
+Enter which role(Users) you want to see
+[Jyothi, Naveeneeee]
+************************
+Enter Your Choice
+************************
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Manufactures Page
+1.Add Dealer
+2.Modify Dealer
+3.Remove Dealers
+4.View Dealers
+5.Add Products
+6.Modify Products
+7.Remove Products
+8.View Products
+9.View Store
+10.Exit
+************************
+Enter Your Choice
+************************
+Enter the UserId
+Invalid !! Try Again
+Enter the UserId
+Enter the Email(It Should contain Capital LettersSpecial Characters,Digits)
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter your id
+Enter Your Username:
+Enter Your Password:
+com.capgemini.storesmanagementsystem.exception.UserNotFoundException: Admin Not found
+Enter your id
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Dealer's Page
+1.Make Orders
+2.Delete Orders
+3.Show All Products
+4.Show All Orders
+5.Show My Store
+5.Exit
+************************
+Enter Your Choice
+************************
+Enter UserName
+Enter Password
+Enter orderId 
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Dealer's Page
+1.Make Orders
+2.Delete Orders
+3.Show All Products
+4.Show All Orders
+5.Show My Store
+5.Exit
+************************
+Enter Your Choice
+************************
+Enter the orderId You want to Delete
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Dealer's Page
+1.Make Orders
+2.Delete Orders
+3.Show All Products
+4.Show All Orders
+5.Show My Store
+5.Exit
+************************
+Enter Your Choice
+************************
+Enter UserName
+Enter Password
+Enter orderId 
+Enter productId 
+Enter Quantity 
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Dealer's Page
+1.Make Orders
+2.Delete Orders
+3.Show All Products
+4.Show All Orders
+5.Show My Store
+5.Exit
+************************
+Enter Your Choice
+************************
+Enter UserName
+Enter Password
+Enter orderId 
+Enter productId 
+Enter Quantity 
+Enter address
+Insert Succesfully
+************************
+Enter Your Choice
+************************
+Enter the orderId You want to Delete
+OrderId is deleted Succesfully
+************************
+Enter Your Choice
+************************
+Enter UserName
+Enter Password
+Enter orderId 
+Enter productId 
+Enter Quantity 
+Enter address
+Insert Succesfully
+************************
+Enter Your Choice
+************************
+Enter the orderId You want to Delete
+OrderId is deleted Succesfully
+************************
+Enter Your Choice
+************************
+bmw
+gjg
+bmw
+nav
+mi
+ggi
+************************
+Enter Your Choice
+************************
+Enter the UserId for seeing StoreUnit
+naveen
+************************
+Enter Your Choice
+************************
+Enter the StoreId You want to See
+789
+************************
+Enter Your Choice
+************************
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter your id
+Enter Your Username:
+Enter Your Password:
+successFully Login
+Welcome to Admin's Page
+1.Add Manufactures
+2.Update Manufactures
+3.Delete Manufactures
+4.Show Manufactures
+5.Exit
+************************
+Enter Your Choice
+************************
+Enter the UserId
+Enter the UserName
+Enter the Email(It Should contain Capital LettersSpecial Characters,Digits)
+Enter the Password(Minimum 8 charactersAtleast 1 Capital Letter,1 Special Character
+Enter the Location(Give it in Alphabets)
+Enter the Role
+Invalid !! Try Again
+Enter the Role
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter your id
+Enter Your Username:
+Enter Your Password:
+successFully Login
+Welcome to Admin's Page
+1.Add Manufactures
+2.Update Manufactures
+3.Delete Manufactures
+4.Show Manufactures
+5.Exit
+************************
+Enter Your Choice
+************************
+Enter the UserId
+Enter the UserName
+Enter the Email(It Should contain Capital LettersSpecial Characters,Digits)
+Enter the Password(Minimum 8 charactersAtleast 1 Capital Letter,1 Special Character
+Enter the Location(Give it in Alphabets)
+Enter the Role
+Insert Succesfully
+************************
+Enter Your Choice
+************************
+Enter the UserID You want to Update
+Enter the Username
+Enter the Password
+Enter the email
+Record has been updated Successfully!!!
+************************
+Enter Your Choice
+************************
+Enter the UserId(String) You want to Delete
+User_Id is deleted Succesfully
+************************
+Enter Your Choice
+************************
+--------------Manufacturer's Info----------------
+[101, Naveen, naveen, Naveen@12, Naveen9090@gmail.com, fhsda, 105, Harish, gsdfg, Hariop, sdsf, dfae, 123, Naveen, Naveej89@gmail.com, Hiarty@123, Bnglr, User, 181, Sasi, Sasi@34Gmail.com, Sasiqw@123, Baihar, dealer, 190, Rohit, r@gmail.com, Rohit@12, Andhra, admin, 304, Jyothi, Jyothi@12gmail.com, Jyoti@345, Jarkand, Dealer, 444, Naveeneeee, Naveen45@gmail.com, Jkd@dgdfg89, hyderabad, dealer, 508, Harika, Harika12@gmail.com, Harika123@, HYderabad, Dealer, 878, Naveen@12, bnglr, Iolpo, manufacturer, NAvi, 898, Prachii, Prachi123@gmail.com, Prachi123@, MadhyaPradesh, Manufacturer]
+************************
+Enter Your Choice
+************************
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Manufactures Page
+1.Add Dealer
+2.Modify Dealer
+3.Remove Dealers
+4.View Dealers
+5.Add Products
+6.Modify Products
+7.Remove Products
+8.View Products
+9.View Store
+10.Exit
+************************
+Enter Your Choice
+************************
+Enter the UserId
+Enter the Email(It Should contain Capital LettersSpecial Characters,Digits)
+Invalid !! Try Again
+Enter the Email(It Should contain Capital LettersSpecial Characters,Digits)
+Enter the Location(Give it in Alphabets)
+Enter the Password(Minimum 8 charactersAtleast 1 Capital Letter,1 Special Character
+Enter the Role
+Enter the UserName
+Insert Succesfully
+************************
+Enter Your Choice
+************************
+Enter the User_ID You want to Update
+Enter the Username
+Enter the Password
+Enter the email
+Record has been updated Successfully!!!
+************************
+Enter Your Choice
+************************
+Enter the UserId(String) You want to Delete
+UserId is deleted Succesfully
+************************
+Enter Your Choice
+************************
+Enter which role(Users) you want to see
+[Sasi, Jyothi, MaheshPanda, Harika]
+************************
+Enter Your Choice
+************************
+Enter the ProductId
+Enter the Brand
+Enter the Price
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Manufactures Page
+1.Add Dealer
+2.Modify Dealer
+3.Remove Dealers
+4.View Dealers
+5.Add Products
+6.Modify Products
+7.Remove Products
+8.View Products
+9.View Store
+10.Exit
+************************
+Enter Your Choice
+************************
+Enter the ProductId
+Enter the Brand
+Enter the Price
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Manufactures Page
+1.Add Dealer
+2.Modify Dealer
+3.Remove Dealers
+4.View Dealers
+5.Add Products
+6.Modify Products
+7.Remove Products
+8.View Products
+9.View Store
+10.Exit
+************************
+Enter Your Choice
+************************
+Enter the ProductId
+Enter the Brand
+Enter the Price
+Enter the Stocks
+Enter the Warranty
+Insert Succesfully
+************************
+Enter Your Choice
+************************
+Enter the ProductID You want to Update
+Enter the price
+Enter the Warranty
+Record has been updated Successfully!!!
+************************
+Enter Your Choice
+************************
+Enter the ProductId You want to Delete
+UserId is deleted Succesfully
+************************
+Enter Your Choice
+************************
+[bmw, Brand, gjg, bmw, nav, mi, ggi]
+************************
+Enter Your Choice
+************************
+[334, 789]
+************************
+Enter Your Choice
+************************
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Dealer's Page
+1.Make Orders
+2.Delete Orders
+3.Show All Products
+4.Show All Orders
+5.Show My Store
+5.Exit
+************************
+Enter Your Choice
+************************
+Enter UserName
+Enter Password
+Enter orderId 
+Enter productId 
+Enter Quantity 
+Enter address
+Insert Succesfully
+************************
+Enter Your Choice
+************************
+Enter the orderId You want to Delete
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Dealer's Page
+1.Make Orders
+2.Delete Orders
+3.Show All Products
+4.Show All Orders
+5.Show My Store
+5.Exit
+************************
+Enter Your Choice
+************************
+Enter the orderId You want to Delete
+OrderId is deleted Succesfully
+************************
+Enter Your Choice
+************************
+bmw
+Brand
+gjg
+bmw
+nav
+mi
+ggi
+************************
+Enter Your Choice
+************************
+Enter the UserId for seeing StoreUnit
+************************
+Enter Your Choice
+************************
+Enter the StoreId You want to See
+789
+************************
+Enter Your Choice
+************************
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Dealer's Page
+1.Make Orders
+2.Delete Orders
+3.Show All Products
+4.Show All Orders
+5.Show My Store
+5.Exit
+************************
+Enter Your Choice
+************************
+Enter the UserId for seeing StoreUnit
+
+************************
+Enter Your Choice
+************************
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Dealer's Page
+1.Make Orders
+2.Delete Orders
+3.Show All Products
+4.Show All Orders
+5.Show My Store
+5.Exit
+************************
+Enter Your Choice
+************************
+Enter the UserId for seeing StoreUnit
+naveen
+************************
+Enter Your Choice
+************************
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Dealer's Page
+1.Make Orders
+2.Delete Orders
+3.Show All Products
+4.Show All Orders
+5.Show My Store
+5.Exit
+************************
+Enter Your Choice
+************************
+Enter UserName
+Enter Password
+Enter orderId 
+Enter productId 
+Enter Quantity 
+Enter address
+Insert Succesfully
+************************
+Enter Your Choice
+************************
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Dealer's Page
+1.Make Orders
+2.Delete Orders
+3.Show All Products
+4.Show All Orders
+5.Show My Store
+5.Exit
+************************
+Enter Your Choice
+************************
+Enter UserName
+Enter Password
+Enter orderId 
+Enter productId 
+Enter Quantity 
+Enter address
+Insert Succesfully
+************************
+Enter Your Choice
+************************
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Dealer's Page
+1.Make Orders
+2.Delete Orders
+3.Show All Products
+4.Show All Orders
+5.Show My Store
+5.Exit
+************************
+Enter Your Choice
+************************
+Enter UserName
+Enter Password
+Enter orderId 
+Enter productId 
+Enter Quantity 
+Enter address
+Enter productId 
+Insert Succesfully
+************************
+Enter Your Choice
+************************
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Dealer's Page
+1.Make Orders
+2.Delete Orders
+3.Show All Products
+4.Show All Orders
+5.Show My Store
+5.Exit
+************************
+Enter Your Choice
+************************
+Enter UserName
+Enter Password
+Enter orderId 
+Enter productId 
+Enter Quantity 
+Enter address
+Enter UserId 
+Insert Succesfully
+************************
+Enter Your Choice
+************************
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Dealer's Page
+1.Make Orders
+2.Delete Orders
+3.Show All Products
+4.Show All Orders
+5.Show My Store
+5.Exit
+************************
+Enter Your Choice
+************************
+Enter the orderId You want to Delete
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Dealer's Page
+1.Make Orders
+2.Delete Orders
+3.Show All Products
+4.Show All Orders
+5.Show My Store
+5.Exit
+************************
+Enter Your Choice
+************************
+Enter the UserName
+Enter the Password(Minimum 8 charactersAtleast 1 Capital Letter,1 Special Character
+Enter orderId 
+Enter productId 
+Enter Quantity 
+Enter address
+Enter UserId 
+Insert Succesfully
+************************
+Enter Your Choice
+************************
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Dealer's Page
+1.Make Orders
+2.Delete Orders
+3.Show All Products
+4.Show All Orders
+5.Show My Store
+5.Exit
+************************
+Enter Your Choice
+************************
+Enter the UserName
+Invalid !! Try Again
+Enter the UserName
+Invalid !! Try Again
+Enter the UserName
+Enter the Password(Minimum 8 charactersAtleast 1 Capital Letter,1 Special Character
+Enter orderId 
+Enter productId 
+Enter Quantity 
+Enter address
+Enter UserId 
+Insert Succesfully
+************************
+Enter Your Choice
+************************
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter your id
+Enter Your Username:
+Enter Your Password:
+$2a$10$3VQTkLdQfsuuPkEBWcFCXeZu7V2MbgaeLHBX6nmt82sStGck05F7S
+successFully Login
+Welcome to Admin's Page
+1.Add Manufactures
+2.Update Manufactures
+3.Delete Manufactures
+4.Show Manufactures
+5.Exit
+************************
+Enter Your Choice
+************************
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Dealer's Page
+1.Make Orders
+2.Delete Orders
+3.Show All Products
+4.Show All Orders
+5.Show My Store
+6.addToStoreUnit
+7.Exit
+************************
+Enter Your Choice
+************************
+Enter StoreId
+Enter MinimumStockMaintained
+Enter No of Items
+Enter ProductId
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Dealer's Page
+1.Make Orders
+2.Delete Orders
+3.Show All Products
+4.Show All Orders
+5.Show My Store
+6.addToStoreUnit
+7.Exit
+************************
+Enter Your Choice
+************************
+Enter StoreId
+Enter the input in specified format
+Enter MinimumStockMaintained
+Enter No of Items
+Enter ProductId
+************************
+Enter Your Choice
+************************
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Dealer's Page
+1.Make Orders
+2.Delete Orders
+3.Show All Products
+4.Show All Orders
+5.Show My Store
+5.Exit
+************************
+Enter Your Choice
+************************
+Enter the UserName
+Enter the Password(Minimum 8 charactersAtleast 1 Capital Letter,1 Special Character
+Enter orderId 
+Enter productId 
+Enter Quantity 
+Enter address
+Enter UserId 
+Insert Succesfully
+************************
+Enter Your Choice
+************************
+Enter the orderId You want to Delete
+OrderId is deleted Succesfully
+************************
+Enter Your Choice
+************************
+bmw
+Brand
+gjg
+bmw
+nav
+mi
+ggi
+************************
+Enter Your Choice
+************************
+Enter the UserId for seeing StoreUnit
+asdgfaj
+************************
+Enter Your Choice
+************************
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter your id
+Enter Your Username:
+Enter Your Password:
+$2a$10$aGsHwfKUrxp9DgRsniCXVO6X5y.NMtXvVc/Ma2e8XOrEDayblmOyW
+successFully Login
+Welcome to Admin's Page
+1.Add Manufactures
+2.Update Manufactures
+3.Delete Manufactures
+4.Show Manufactures
+5.Exit
+************************
+Enter Your Choice
+************************
+Enter the UserId
+Enter the UserName:
+*Please Specify it in Alphabets*
+Enter the Email(It Should contain Capital LettersSpecial Characters,Digits)
+Enter the Password(Minimum 8 charactersAtleast 1 Capital Letter,1 Special Character
+Enter the Location
+*Please Specify it in Alphabets*
+Enter the Role
+*Please Specify it in Alphabets*
+Insert Succesfully
+************************
+Enter Your Choice
+************************
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Dealer's Page
+1.Make Orders
+2.Delete Orders
+3.Show All Products
+4.Show All Orders
+5.Show My Store
+5.Exit
+************************
+Enter Your Choice
+************************
+Enter the UserName
+*It Should contain Capital Letters" + "Special Characters,Digits*
+Enter the Password(Minimum 8 charactersAtleast 1 Capital Letter,1 Special Character
+Enter orderId 
+Enter productId 
+Enter Quantity 
+Enter address
+Enter UserId 
+Insert Succesfully
+************************
+Enter Your Choice
+************************
+Enter the orderId You want to Delete
+OrderId is deleted Succesfully
+************************
+Enter Your Choice
+************************
+bmw
+Brand
+gjg
+bmw
+nav
+mi
+ggi
+************************
+Enter Your Choice
+************************
+Enter the UserId for seeing StoreUnit
+
+************************
+Enter Your Choice
+************************
+===================================
+Welcome To Store Management System
+Enter Your Choice:
+Press 1.Admin
+Press 2.Manufacturer
+Press 3.Dealer
+Press 4.Exit
+===================================
++=+=+=+=+=+=+=+=+=+=+=+=
+Enter Your Choice:
++=+=+=+=+=+=+=+=+=+=+=+=
+Welcome to Dealer's Page
+1.Make Orders
+2.Delete Orders
+3.Show All Products
+4.Show All Orders
+5.Show My Store
+5.Exit
+************************
+Enter Your Choice
+************************
+Enter the UserId for seeing StoreUnit
+************************
+Enter Your Choice
+************************

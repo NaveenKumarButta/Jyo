@@ -1,0 +1,35 @@
+1581232555001	Delete element
+1581237016286	Delete element
+1581242390449	Rename package 'com.capgemini.storesmanagement.dao'
+1581242444594	Rename package 'com.capgemini.storesmanagement.dto'
+1581242884324	Rename package 'com.capgemini.storesmanagement.exception'
+1581242905041	Rename package 'com.capgemini.storesmanagement.validation'
+1581242918771	Rename package 'com.capgemini.storesmanagement.controller'
+1581242934431	Rename package 'com.capgemini.storesmanagement.service'
+1581242978715	Rename package 'com.capgemini.storesmanagement.factory'
+1581333021702	Delete element
+1581338931378	Rename type 'AdminController'
+1581356758866	Delete element
+1581356886689	Delete element
+1581357673072	Delete element
+1581394253875	Delete element
+1581396825766	Delete element
+1581397022673	Delete element
+1581398373695	Delete element
+1581399033864	Delete element
+1581399043607	Delete element
+1581405060532	Rename field 'product'
+1581413583453	Rename local variable 'location'
+1581424932986	Rename local variable 'allManufactures'
+1581443100733	Rename type 'ManufacturerConntroller'
+1581500368455	Rename type 'StoresInfoController'
+1581590332510	Delete element
+1581590366580	Rename type 'SchemaManagementException'
+1581598915512	Delete element
+1581604225376	Rename type 'InputMissMatchException'
+1581637113434	Delete element
+1581637339424	Delete element
+1581640118594	Delete element
+1581640122635	Delete element
+1581641457665	Rename local variable 'storeunit'
+1581642564066	Delete element

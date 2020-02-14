@@ -1,0 +1,9 @@
+package com.capgemini.storesmanagement.exception;
+
+public class StoreManagementSystemException RuntimeException {
+
+	public StoreManagementSystemException(String message) {
+		super(message);
+	}
+
+}

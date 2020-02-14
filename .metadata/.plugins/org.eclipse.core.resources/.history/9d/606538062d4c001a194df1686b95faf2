@@ -1,0 +1,10 @@
+package com.capgemini.storesmanagementsystem.controller;
+
+public class AdminController {
+
+	public void adminLogin() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

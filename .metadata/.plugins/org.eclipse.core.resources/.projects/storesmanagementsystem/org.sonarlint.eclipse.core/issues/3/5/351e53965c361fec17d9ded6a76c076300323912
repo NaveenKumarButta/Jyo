@@ -1,0 +1,8 @@
+
+nsquid:S1126?"AReplace this if-then-else statement by a single return statement.(ı…²³HÒRMINORZ
+CODE_SMELL
+ksquid:S2696"6Make the enclosing method "static" or remove this set.(¥šöèüÿÿÿÿHÓRCRITICALZ
+CODE_SMELL
+ˆsquid:S2068"V'PASSWORD' detected in this expression, review this potentially hard-coded credential.(ÂÕšHÔRBLOCKERZVULNERABILITY
+nsquid:S11266"AReplace this if-then-else statement by a single return statement.(ûäïHÕRMINORZ
+CODE_SMELL

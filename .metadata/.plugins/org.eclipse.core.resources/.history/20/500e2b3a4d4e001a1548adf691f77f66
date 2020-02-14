@@ -1,0 +1,20 @@
+package com.capgemini.storesmanagementsystem.exception;
+
+public class InputMissMatchException extends RuntimeException{
+	
+	String msg="";
+
+	public InputMissMatchException() {
+		super();
+	}
+
+	public InputMissMatchException(String msg) {
+		super();
+		this.msg = msg;
+	}
+	public String getMessage() {
+		return this.msg;
+	}
+
+
+}

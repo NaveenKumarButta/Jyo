@@ -1,0 +1,15 @@
+package com.capgemini.storesmanagementsystem.controller;
+
+import java.util.Scanner;
+
+import org.apache.log4j.LogManager;
+import org.apache.log4j.Logger;
+
+import com.capgemini.storesmanagementsystem.dao.AdminDaoImpl;
+import com.capgemini.storesmanagementsystem.dto.UserDetailsInfo;
+
+public class AdminController {
+
+
+
+}

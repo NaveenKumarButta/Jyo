@@ -1,0 +1,7 @@
+package com.capgemini.storesmanagementsystem.service;
+
+public class ManufacturerDaoImpl implements ManufacturerDao{
+
+	
+	
+}

@@ -1,0 +1,12 @@
+package com.capgemini.storesmanagementsystem.dao;
+
+import com.capgemini.storesmanagementsystem.dto.UserDetailsInfo;
+
+public interface DAOInterface {
+
+	public void register(UserDetailsInfo info);
+	
+	public void login(UserDetailsInfo info);
+
+    
+}

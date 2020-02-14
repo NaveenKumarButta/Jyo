@@ -1,0 +1,6 @@
+package com.capgemini.storesmanagementsystem.service;
+
+public class DealerDaoImpl implements DealerService{
+	
+
+}

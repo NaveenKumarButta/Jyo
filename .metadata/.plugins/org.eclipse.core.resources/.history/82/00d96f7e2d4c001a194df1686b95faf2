@@ -1,0 +1,10 @@
+package com.capgemini.storesmanagementsystem.controller;
+
+public class AboutController {
+
+	public void aboutPage() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

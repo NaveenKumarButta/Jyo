@@ -1,0 +1,35 @@
+
+squid:S2068E"V'password' detected in this expression, review this potentially hard-coded credential.(»ÉáŸÿÿÿÿÿH°RBLOCKERZVULNERABILITY
+squid:S2068l"V'password' detected in this expression, review this potentially hard-coded credential.(»ÉáŸÿÿÿÿÿH±RBLOCKERZVULNERABILITY
+Xsquid:S1148>"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿH²RMINORZVULNERABILITY
+squid:S2068)"V'password' detected in this expression, review this potentially hard-coded credential.(»ÉáŸÿÿÿÿÿH³RBLOCKERZVULNERABILITY
+squid:S2068U"V'password' detected in this expression, review this potentially hard-coded credential.(»ÉáŸÿÿÿÿÿH´RBLOCKERZVULNERABILITY
+Œsquid:S2293€"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÖÍ„¸ıÿÿÿÿHµRMINORZ
+CODE_SMELL
+Ôsquid:S1192"—Define a constant instead of duplicating this literal "jdbc:mysql://localhost:3306/stores_management_db?user=root&password=tiger&useSSL=false" 6 times.(»ÉáŸÿÿÿÿÿ8„éÛêƒ.H¶RCRITICALZ
+CODE_SMELL
+squid:S2068"V'password' detected in this expression, review this potentially hard-coded credential.(»ÉáŸÿÿÿÿÿH·RBLOCKERZVULNERABILITY
+`squid:S4925Š"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿH¸RMAJORZ
+CODE_SMELL
+‹squid:S2293j"YReplace the type specification in this constructor call with the diamond operator ("<>").(ĞÊöƒşÿÿÿÿH¹RMINORZ
+CODE_SMELL
+‹squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(®óñüÿÿÿÿHºRMINORZ
+CODE_SMELL
+_squid:S4925."-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿH»RMAJORZ
+CODE_SMELL
+e
+squid:S1068"9Replace this use of System.out or System.err by a logger.(ÿş«ÄH¼RMAJORZ
+CODE_SMELL
+fsquid:S4925^"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿ8ï¤øŞƒ.H½RMAJORZ
+CODE_SMELL
+‹squid:S2293T"YReplace the type specification in this constructor call with the diamond operator ("<>").(÷­­ÍøÿÿÿÿH¾RMINORZ
+CODE_SMELL
+_squid:S4925s"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿH¿RMAJORZ
+CODE_SMELL
+squid:S2068"V'password' detected in this expression, review this potentially hard-coded credential.(»ÉáŸÿÿÿÿÿHÀRBLOCKERZVULNERABILITY
+‹squid:S1192"VDefine a constant instead of duplicating this literal "com.mysql.jdbc.Driver" 6 times.(¹µÖÁüÿÿÿÿHÁRCRITICALZ
+CODE_SMELL
+_squid:S4925"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿHÂRMAJORZ
+CODE_SMELL
+_squid:S4925I"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿHÃRMAJORZ
+CODE_SMELL

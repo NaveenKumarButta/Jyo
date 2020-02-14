@@ -1,0 +1,8 @@
+package com.capgemini.storesmanagementsystem.dao;
+
+public interface DAOInterface {
+
+	void register(int userId,String userName,String email,String password,String address,String userRole);
+
+    
+}

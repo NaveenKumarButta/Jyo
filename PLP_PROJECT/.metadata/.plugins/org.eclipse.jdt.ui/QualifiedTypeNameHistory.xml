@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.mysql.jdbc.Connection"/>
+<fullyQualifiedTypeName name="com.mysql.jdbc.PreparedStatement"/>
+<fullyQualifiedTypeName name="java.util.logging.Logger"/>
+<fullyQualifiedTypeName name="java.util.logging.LogManager"/>
+<fullyQualifiedTypeName name="com.capgemini.storesmanagementsystem.dao.AdminDAOInterface"/>
+<fullyQualifiedTypeName name="com.capgemini.storesmanagementsystem.service.ManufacturerDao"/>
+<fullyQualifiedTypeName name="com.capgemini.storesmanagementsystem.service.DealerDao"/>
+<fullyQualifiedTypeName name="com.capgemini.storesmanagementsystem.dto.StockDetailsInfo"/>
+<fullyQualifiedTypeName name="java.sql.SQLException"/>
+<fullyQualifiedTypeName name="com.capgemini.storesmanagementsystem.dao.ManufacturerImpl"/>
+<fullyQualifiedTypeName name="com.capgemini.storesmanagementsystem.service.ManufacturerServiceImpl"/>
+<fullyQualifiedTypeName name="com.capgemini.storesmanagementsystem.dao.DealerImpl"/>
+<fullyQualifiedTypeName name="com.capgemini.storesmanagementsystem.service.DealerServiceImpl"/>
+<fullyQualifiedTypeName name="com.capgemini.storesmanagementsystem.factory.FactoryDetails"/>
+<fullyQualifiedTypeName name="com.capgemini.storesmanagementsystem.dao.AdminDao"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="com.capgemini.storesmanagementsystem.factory.DealerDaoManagerFactory"/>
+<fullyQualifiedTypeName name="com.capgemini.storesmanagementsystem.factory.ManufacturerDaoManagerFactory"/>
+<fullyQualifiedTypeName name="org.mindrot.jbcrypt.BCrypt"/>
+<fullyQualifiedTypeName name="com.capgemini.util.PasswordEncrypter"/>
+<fullyQualifiedTypeName name="org.apache.log4j.LogManager"/>
+<fullyQualifiedTypeName name="com.capgemini.storesmanagementsystem.controller.AdminController"/>
+<fullyQualifiedTypeName name="org.apache.log4j.BasicConfigurator"/>
+<fullyQualifiedTypeName name="com.capgemini.storesmanagementsystem.service.AdminService"/>
+<fullyQualifiedTypeName name="java.sql.Connection"/>
+<fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+<fullyQualifiedTypeName name="java.sql.ResultSet"/>
+<fullyQualifiedTypeName name="java.sql.Statement"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.sql.DriverManager"/>
+<fullyQualifiedTypeName name="com.capgemini.storesmanagementsystem.dao.AdminDaoImpl"/>
+<fullyQualifiedTypeName name="com.capgemini.storesmanagementsystem.dao.DealerDao"/>
+<fullyQualifiedTypeName name="com.capgemini.storesmanagementsystem.dao.ManufacturerDao"/>
+<fullyQualifiedTypeName name="com.capgemini.storesmanagementsystem.service.DealerService"/>
+<fullyQualifiedTypeName name="com.capgemini.storesmanagementsystem.dao.DealerDaoImpl"/>
+<fullyQualifiedTypeName name="com.capgemini.storesmanagementsystem.dto.OrderDetailsInfo"/>
+<fullyQualifiedTypeName name="com.capgemini.storesmanagementsystem.service.ManufacturerService"/>
+<fullyQualifiedTypeName name="com.capgemini.storesmanagementsystem.dao.ManufacturerDaoImpl"/>
+<fullyQualifiedTypeName name="com.capgemini.storesmanagementsystem.dto.UserDetailsInfo"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.capgemini.storesmanagementsystem.dto.ProductDetailsInfo"/>
+<fullyQualifiedTypeName name="org.apache.log4j.Logger"/>
+<fullyQualifiedTypeName name="com.capgemini.storesmanagementsystem.service.AdminServiceImpl"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+</qualifiedTypeNameHistroy>

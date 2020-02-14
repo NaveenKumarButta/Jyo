@@ -1,0 +1,13 @@
+package com.capgemini.storesmanagement.dao;
+
+import com.capgemini.storesmanagement.dto.OrderDetailsInfo;
+
+public interface DealerDao {
+	public OrderDetailsInfo loginDealer(OrderDetailsInfo info);
+
+
+	public void makeOrder(OrderDetailsInfo info1);
+	public void deleteOrder(OrderDetailsInfo info2);
+	public void viewMyOrder(OrderDetailsInfo info3);
+	public void viewMyStore(OrderDetailsInfo info4);
+}

@@ -1,0 +1,16 @@
+package com.capgemini.storesmanagementsystem.dao;
+
+import com.capgemini.storesmanagementsystem.dto.ProductInfoDetails;
+import com.capgemini.storesmanagementsystem.dto.UserDetailsInfo;
+
+public interface ManufacturerDao {
+	public void loginManufacturer(UserDetailsInfo info);
+	
+	public void addDealer(UserDetailsInfo info1);
+	public void modifyDealer(UserDetailsInfo info2);
+	public void removeDealer(UserDetailsInfo info3);
+	
+	public void addProduct(ProductInfoDetails product);
+	public void modifyProduct(ProductInfoDetails product);
+	public void removeProduct(ProductInfoDetails product);
+	

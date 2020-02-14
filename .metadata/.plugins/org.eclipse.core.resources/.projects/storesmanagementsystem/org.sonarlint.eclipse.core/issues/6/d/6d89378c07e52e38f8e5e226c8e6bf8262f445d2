@@ -1,0 +1,22 @@
+
+squid:S3776"SRefactor this method to reduce its Cognitive Complexity from 103 to the 15 allowed.(ò·êÍüÿÿÿÿ8“Ü–èƒ.HàRCRITICALZ
+CODE_SMELL
+k
+squid:S106Ç"9Replace this use of System.out or System.err by a logger.(çôîÚüÿÿÿÿHØRMAJORZ
+CODE_SMELL
+squid:S3973¡"IUse indentation to denote the code conditionally executed by this "else".(ÔÍØ8“Ü–èƒ.HßRCRITICALZ
+CODE_SMELL
+€squid:S3973>"IUse indentation to denote the code conditionally executed by this "else".(ÔÍØ8“Ü–èƒ.HÛRCRITICALZ
+CODE_SMELL
+„squid:S00117\"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†Ä§ªıÿÿÿÿH×RMINORZ
+CODE_SMELL
+squid:S00117D"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨Ê›HÙRMINORZ
+CODE_SMELL
+’squid:S11924"VDefine a constant instead of duplicating this literal "Invalid !! Try Again" 11 times.(’‚ıÜÿÿÿÿÿ8“Ü–èƒ.HÚRCRITICALZ
+CODE_SMELL
+squid:S3973—"IUse indentation to denote the code conditionally executed by this "else".(ÔÍØ8“Ü–èƒ.HRCRITICALZ
+CODE_SMELL
+€squid:S3973l"IUse indentation to denote the code conditionally executed by this "else".(ÔÍØ8“Ü–èƒ.HÜRCRITICALZ
+CODE_SMELL
+squid:S3973´"IUse indentation to denote the code conditionally executed by this "else".(ÔÍØ8“Ü–èƒ.HŞRCRITICALZ
+CODE_SMELL

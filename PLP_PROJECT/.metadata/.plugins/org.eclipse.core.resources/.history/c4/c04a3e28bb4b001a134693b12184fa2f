@@ -1,0 +1,42 @@
+package com.capgemini.storesmanagementsystem.service;
+
+import com.capgemini.storesmanagementsystem.dto.UserDetailsInfo;
+
+public class AdminServiceImpl implements AdminService{
+
+	
+	@Override
+	public void loginAdmin(UserDetailsInfo info) {
+	
+		
+	}
+
+	@Override
+	public void addManufacturer(UserDetailsInfo info1) {
+		
+		
+	}
+
+	@Override
+	public void updateManufacturer(UserDetailsInfo info2) {
+		
+		
+	}
+
+	@Override
+	public void deleteManufacturer(UserDetailsInfo info3) {
+		
+		
+	}
+
+	@Override
+	public void showManufacturer(UserDetailsInfo info4) {
+		
+		
+	}
+	
+
+	
+
+
+}

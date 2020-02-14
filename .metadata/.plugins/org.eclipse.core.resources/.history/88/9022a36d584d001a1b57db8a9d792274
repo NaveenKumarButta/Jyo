@@ -1,0 +1,12 @@
+package com.capgemini.storesmanagementsystem.service;
+
+import java.util.List;
+
+import com.capgemini.storesmanagementsystem.dao.ManufacturerDao;
+import com.capgemini.storesmanagementsystem.dao.ManufacturerDaoImpl;
+import com.capgemini.storesmanagementsystem.dto.ProductDetailsInfo;
+import com.capgemini.storesmanagementsystem.dto.UserDetailsInfo;
+
+public class ManufacturerServiceImpl implements  ManufacturerService {
+	
+}
